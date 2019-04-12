@@ -1,0 +1,458 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+0,Samsung Galaxy S,2310,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,198,Single,AMOLED,6.7,1440,3040,Android 9.0,Exynos,Octa,Mali-G76,No,"256.0,8.0",Yes,Type-C,4500
+1,Samsung Galaxy S,2310,Yes,157.6,74.1,7.8,175,Single,AMOLED,6.4,1440,3040,Android 9.0,Exynos,Octa,Mali-G76,512 GB,"1024.0,12.0",Yes,Type-C,4100
+2,Samsung Galaxy S,2310,Yes,149.9,70.4,7.8,157,Single,AMOLED,6.1,1440,3040,Android 9.0,Exynos,Octa,Mali-G76,512 GB,"128.0,8.0",Yes,Type-C,3400
+3,Samsung Galaxy S,2310,Yes,142.2,69.9,7.9,150,Single,AMOLED,5.8,1080,2280,Android 9.0,Exynos,Octa,Mali-G76,512 GB,"256.0,8.0",Yes,Type-C,3100
+4,Samsung Galaxy Fold,385,Yes,-,-,-,-,Single,AMOLED,7.3,1536,2152,Android 9.0,Qualcomm,Octa,Adreno,No,"512.0,12.0",Yes,Type-C,4380
+5,Samsung Galaxy Watch Active,0,No,39.5,39.5,10.5,25,No,AMOLED,1.1,360,360,Tizen,Exynos,Dual,-,No,"4.0,0.75",Yes,No,230
+6,Samsung Galaxy M,385,Yes,159,75.1,8.4,-,Dual,AMOLED,6.4,1080,2340,Android 8.1,Exynos,Octa,Mali-G71,512 GB,"128.0,6.0",Yes,Type-C,5000
+7,Samsung Galaxy M,385,Yes,156.4,74.5,8.8,186,Dual,TFT,6.3,1080,2340,Android 8.1,Exynos,Octa,Mali-G71,512 GB,"64.0,4.0",Yes,Type-C,5000
+8,Samsung Galaxy M,385,Yes,155.6,75.6,7.7,163,Dual,TFT,6.22,720,1520,Android 8.1,Exynos,Octa,Mali-T830,512 GB,"32.0,3.0",Yes,microUSB 2.0,3400
+9,Samsung Galaxy A,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,-,Single,AMOLED,6.7,1080,2400,Android 9.0,-,Octa,-,512 GB,"128.0,6.0",Yes,Type-C,4500
+10,Samsung Galaxy A,385,Yes,158.5,74.7,7.7,166,Single,AMOLED,6.4,1080,2340,Android 9.0,Exynos,Octa,Mali-G72,512 GB,"64.0,4.0",Yes,Type-C,4000
+11,Samsung Galaxy A,385,Yes,144.3,69.1,7.9,-,Single,AMOLED,5.9,1080,2340,Android 9.0,Exynos,Octa,Mali-G71,512 GB,"64.0,4.0",Yes,Type-C,3100
+12,Samsung Galaxy A,385,Yes,158.5,74.7,7.7,165,Single,AMOLED,6.4,1080,2340,Android 9.0,Exynos,Octa,Mali-G71,512 GB,"64.0,4.0",Yes,Type-C,4000
+13,Samsung Galaxy A,385,Yes,-,-,-,-,Single,AMOLED,6.4,720,1560,Android 9.0,Exynos,Octa,-,512 GB,"32.0,3.0",Yes,microUSB 2.0,4000
+14,Samsung Galaxy A,385,Yes,155.6,75.6,7.9,168,Single,LCD,6.2,720,1520,Android 9.0,Exynos,Octa,Mali-G71,512 GB,"32.0,2.0",Yes,microUSB 2.0,3400
+15,Samsung Galaxy Tab S5e,385,Yes,245,160,5.5,400,Single,AMOLED,10.5,1600,2560,Android 9.0,Qualcomm,Octa,Adreno,512 GB,"128.0,6.0",Yes,Type-C,7040
+16,Samsung Galaxy Tab A 10.1 (2019),385,Yes,245,149,7.5,460,Single,LCD,10.1,1200,1920,Android 9.0,Exynos,Octa,Mali-G71,512 GB,"32.0,2.0",Yes,Type-C,6150
+17,Samsung Galaxy Tab A 8 (2019),385,Yes,201.5,122.4,8.9,325,Single,LCD,8.0,1200,1920,Android 9.0,Exynos,Octa,Mali-G71,512 GB,"32.0,3.0",Yes,Type-C,4200
+18,Samsung Galaxy Tab Advanced2,0,No,250.4,166.2,8.5,525,No,LCD,10.1,1200,1920,Android 8.0,Exynos,Octa,Mali-T830,400 GB,"32.0,3.0",Yes,Yes,7300
+19,Samsung Galaxy A,385,Yes,158.4,74.9,7.4,173,Single,LCD,6.4,1080,2340,Android 9.0,Qualcomm,Octa,Adreno,512 GB,"128.0,6.0",Yes,Type-C,3400
+20,Samsung Galaxy A,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,-,Dual,AMOLED,6.0,1080,2160,Android 8.0,Qualcomm,Octa,Adreno,512 GB,"64.0,6.0",Yes,Type-C,3300
+21,Samsung Galaxy A,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,183,Dual,AMOLED,6.3,1080,2220,Android 8.0,Qualcomm,Octa,Adreno,512 GB,"64.0,6.0",Yes,Type-C,3800
+22,Samsung Galaxy A,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,168,Single,AMOLED,6.0,1080,2220,Android 8.0,Exynos,Octa,Mali-G71,512 GB,"128.0,4.0",Yes,microUSB 2.0,3300
+23,Samsung Galaxy Note9,2310,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,201,Single,AMOLED,6.4,1440,2960,Android 8.1,Exynos,Octa,Mali-G72,512 GB,"512.0,8.0",Yes,Type-C,4000
+24,Samsung Galaxy Watch,385,Yes,49,13,13,63,Electronic SIM card (eSIM),AMOLED,1.3,360,360,Tizen,Exynos,Dual,-,No,"4.0,1.5",Yes,No,472
+25,Samsung Galaxy J,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,178,Single,LCD,6.0,720,1480,Android 8.1,Qualcomm,Quad,Adreno,512 GB,"64.0,4.0",Yes,microUSB 2.0,3300
+26,Samsung Galaxy J,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,177,Dual,LCD,6.0,720,1480,Android 8.1,Qualcomm,Quad,Adreno,512 GB,"16.0,1.0",Yes,microUSB 2.0,3300
+27,Samsung Galaxy J,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,178,Dual,LCD,6.0,720,1480,Android 8.1,Qualcomm,Quad,Adreno,512 GB,"32.0,2.0",Yes,microUSB 2.0,3300
+28,Samsung Galaxy J,385,Yes,143.4,72.1,8.9,154,Dual,TFT,5.0,540,960,Android 8.1,Exynos,Quad,Mali-T720,256 GB,"8.0,1.0",Yes,microUSB 2.0,2600
+29,Samsung Galaxy Tab S4 10.5,385,Yes,249.3,164.3,7.1,482,Single,AMOLED,10.5,1600,2560,Android 8.1,Qualcomm,Octa,Adreno,512 GB,"64.0,4.0",Yes,Type-C,7300
+30,Samsung Galaxy Tab A 10.5,385,Yes,260,161.1,8,529,Single,LCD,10.5,1200,1920,Android 8.1,Qualcomm,Octa,Adreno,512 GB,"32.0,3.0",Yes,Type-C,7300
+31,Samsung Galaxy On6,385,Yes,149.3,70.2,8.2,154,Dual,AMOLED,5.6,720,1480,Android 8.0,Exynos,Octa,Mali-T830,256 GB,"64.0,4.0",Yes,microUSB 2.0,3000
+32,Samsung Galaxy J,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,181,Single,TFT,5.5,720,1280,Android 8.0,-,Octa,-,400 GB,"16.0,2.0",Yes,microUSB 2.0,3300
+33,Samsung Galaxy J,385,Yes,142.7,70.1,8.9,152,Single,LCD,5.0,720,1280,Android 8.0,Exynos,Quad,Mali-T720,256 GB,"16.0,2.0",Yes,microUSB 2.0,2600
+34,Samsung Galaxy A,770,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,191,Dual,AMOLED,6.3,1080,2220,Android 8,Qualcomm,Octa,Adreno,512 GB,"64.0,4.0",Yes,Type-C,3700
+35,Samsung Galaxy S,770,Yes,148.9,68.1,8,150,Dual,AMOLED,5.8,1080,2220,Android 8.0,Qualcomm,Octa,Adreno,512 GB,"64.0,4.0",Yes,Type-C,3000
+36,Samsung Galaxy J,385,Yes,159.2,75.7,8.2,177,Dual,AMOLED,6.0,720,1480,Android 8.0,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,microUSB 2.0,3500
+37,Samsung Galaxy J,385,Yes,149.3,70.2,8.2,154,Dual,AMOLED,5.6,720,1480,Android 8.0,Exynos,Octa,Mali-T830,256 GB,"64.0,4.0",Yes,microUSB 2.0,3000
+38,Samsung Galaxy J,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,175,Dual,AMOLED,5.5,720,1280,Android 8.0,Exynos,Quad,Mali-T720,256 GB,"16.0,2.0",Yes,microUSB 2.0,3000
+39,Samsung Galaxy A,385,Yes,160.2,75.7,7.9,186,Single,AMOLED,6.0,1080,2220,Android 8.0,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,microUSB 2.0,3500
+40,Samsung Galaxy A,385,Yes,149.9,70.8,7.7,159,Single,AMOLED,5.6,720,1480,Android 8.0,Exynos,Octa,Mali-T830,256 GB,"64.0,4.0",Yes,microUSB 2.0,3000
+41,Samsung Galaxy J,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,174,Single,AMOLED,5.5,720,1280,Android 8.0,Exynos,Octa,Mali-G71,256 GB,"32.0,4.0",Yes,Yes,3000
+42,Samsung Galaxy J,385,Yes,151.7,75,8,170,Single,TFT,5.5,1080,1920,Android 7.0,Exynos,Octa,Mali-T830,256 GB,"32.0,3.0",Yes,microUSB 2.0,3300
+43,Samsung Galaxy S,2310,Yes,158.1,73.8,8.5,189,Single,AMOLED,6.2,1440,2960,Android 8.0,Exynos,Octa,Mali-G72,512 GB,"64.0,6.0",Yes,Type-C,3500
+44,Samsung Galaxy S,2310,Yes,147.7,68.7,8.5,163,Single,AMOLED,5.8,1440,2960,Android 8.0,Exynos,Octa,Mali-G72,512 GB,"64.0,4.0",Yes,Type-C,3000
+45,Samsung Galaxy J,385,Yes,143.8,72.3,8.4,153,Dual,AMOLED,5.0,540,960,Android 7.1,Qualcomm,Quad,Adreno,256 GB,"16.0,1.5",Yes,microUSB 2.0,2600
+46,Samsung Galaxy A,385,Yes,159.9,75.7,8.3,191,Single,AMOLED,6.0,1080,2220,Android 7.1.1,Exynos,Octa,Mali-G71,256 GB,"64.0,6.0",Yes,Type-C,3500
+47,Samsung Galaxy A,385,Yes,149.2,70.6,8.4,172,Single,AMOLED,5.6,1080,2220,Android 7.1.1,Exynos,Octa,Mali-G71,256 GB,"32.0,4.0",Yes,Type-C,3000
+48,Samsung Galaxy J,385,Yes,136.5,69,8.4,130,Dual,AMOLED,4.7,540,960,Android 7.0,Exynos,Quad,Mali-T720,256 GB,"8.0,1.0",Yes,microUSB 2.0,2000
+49,Samsung Galaxy Tab Active 2,385,Yes,127.6,214.7,9.9,415,Single,LCD,8.0,800,1280,Android 7.1.1,Exynos,Octa,-,256 GB,"16.0,3.0",Yes,Type-C,4450
+50,Samsung Galaxy Tab A 8.0 (2017),385,Yes,212.1,124.1,8.9,364,Single,LCD,8.0,800,1280,Android 7.1,Qualcomm,Quad,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,5000
+51,Samsung Galaxy C,385,Yes,152.4,74.7,7.9,180,Dual,AMOLED,5.5,1080,1920,Android 7.1,-,Octa,-,256 GB,"32.0,4.0",Yes,microUSB 2.0,3000
+52,Samsung Gear Sport,0,No,44.6,42.9,11.6,67,No,AMOLED,1.2,360,360,Tizen,Dual,Dual,Mali-400MP2,No,"4.0,0.75",Yes,No,300
+53,Samsung Galaxy Note8,385,Yes,162.5,74.8,8.6,195,Single,AMOLED,6.3,1440,2960,Android 7.1.1,Exynos,Octa,Mali-G71,512 GB,"64.0,6.0",Yes,Type-C,3300
+54,Samsung Galaxy S,385,Yes,151.9,74.9,9.9,208.1,Single,AMOLED,5.8,1440,2960,Android 7.0,Qualcomm,Octa,Adreno,512 GB,"64.0,4.0",Yes,Type-C,4000
+55,Samsung Galaxy J,2310,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,167.3,Single,LCD,5.5,720,1280,Android 7.0.1,Qualcomm,Octa,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,3300
+56,Samsung Galaxy Note FE,385,Yes,153.5,73.9,7.9,167,Single,AMOLED,5.7,1440,2560,Android 7.1.1,Exynos,Octa,Mali-T880,256 GB,"64.0,4.0",Yes,Type-C,3200
+57,Samsung Galaxy J,385,Yes,156.7,78.8,8.1,179,Dual,"PLS capacitive touchscreen, 16M colors",5.7,1080,1920,Android 7.0,Mediatek,Octa,Mali-T880MP2,256 GB,"32.0,4.0",Yes,microUSB 2.0,3300
+58,Samsung Galaxy J,385,Yes,152.5,74.8,8,181,Single,AMOLED,5.5,1080,1920,Android 7.0,Exynos,Octa,Mali-T830,256 GB,"32.0,3.0",Yes,microUSB 2.0,3600
+59,Samsung Galaxy J,385,Yes,152.5,74.8,8,181,Dual,AMOLED,5.5,1080,1920,Android 7.0,Exynos,Octa,Mali-T830,256 GB,"16.0,3.0",Yes,microUSB 2.0,3600
+60,Samsung Galaxy J,385,Yes,146.2,71.3,8,160,Single,AMOLED,5.2,720,1280,Android 7.0,Exynos,Octa,Mali-T830,256 GB,"16.0,2.0",Yes,microUSB 2.0,3000
+61,Samsung Galaxy J,385,Yes,143.2,70.3,8.2,142,Single,"PLS capacitive touchscreen, 16M colors",5.0,720,1280,Android 7.0,Exynos,Quad,Mali-T720,256 GB,"16.0,2.0",Yes,microUSB 2.0,2400
+62,Samsung Galaxy Folder2,385,Yes,122,60.2,16.1,165,Dual,TFT,3.8,480,800,Android 6.0,Qualcomm,Quad,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,1950
+63,Samsung Z4,385,Yes,132.9,69.2,10.3,143,Single,"Capacitive touchscreen, 16M colors",4.5,480,800,microUSB 3.0,-,Quad,-,128 GB,"8.0,1.0",Yes,microUSB 2.0,2050
+64,Samsung Galaxy S,385,Yes,148.9,68.1,8,155,Single,AMOLED,5.8,1440,2960,Android 7.0,Exynos,Octa,Mali-G71,512 GB,"64.0,4.0",Yes,Type-C,3000
+65,Samsung Galaxy S,385,Yes,159.5,73.4,8.1,173,Single,AMOLED,6.2,1440,2960,Android 7.0,Exynos,Octa,Mali-G71,512 GB,"128.0,6.0",Yes,Type-C,3500
+66,Samsung Gear S3 classic LTE,385,Yes,49,46,12.9,microUSB 2.0,Electronic SIM card (eSIM),AMOLED,1.3,360,360,Tizen,Exynos,Dual,-,No,"4.0,0.75",Yes,No,380
+67,Samsung Galaxy C,385,Yes,145.7,71.4,7,145,Dual,AMOLED,5.2,1080,1920,Android 7.0,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,Type-C,2600
+68,Samsung Galaxy Xcover 4,385,Yes,146.2,73.3,9.7,172,Single,LCD,5.0,720,1280,Android 7.0,Exynos,Quad,Mali-T720,256 GB,"16.0,2.0",Yes,microUSB 2.0,2800
+69,Samsung Galaxy Tab S3 9.7,385,Yes,237.3,169,6,429,Single,AMOLED,9.7,1536,2048,Android 7.0,Qualcomm,Quad,Adreno,512 GB,"32.0,4.0",Yes,Type-C,6000
+70,Samsung Galaxy J,385,Yes,121.6,63.1,10.8,126,Single,TFT,4.0,480,800,Android 5.1,Spreadtrum,Quad,Mali-400MP2,256 GB,"8.0,1.0",Yes,microUSB 2.0,1500
+71,Samsung Galaxy J,770,Yes,140.9,70.1,8.7,147,Single,TFT,5.0,720,1280,Android 6.0.1,Qualcomm,Octa,Adreno,256 GB,"16.0,1.5",Yes,microUSB 2.0,2600
+72,Samsung Galaxy C,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,172,Dual,AMOLED,5.7,1080,1920,Android 6.0.1,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,Type-C,3300
+73,Samsung Galaxy A,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,186,Single,AMOLED,5.7,1080,1920,Android 6.0.1,Exynos,Octa,Mali-T830MP3,256 GB,"32.0,3.0",Yes,Type-C,3600
+74,Samsung Galaxy A,385,Yes,146.1,71.4,7.9,157,Single,AMOLED,5.2,1080,1920,Android 6.0.1,Exynos,Octa,Mali-T830MP3,256 GB,"32.0,3.0",Yes,Type-C,3000
+75,Samsung Galaxy A,385,Yes,135.4,66.2,7.9,138,Single,AMOLED,4.7,720,1280,Android 6.0.1,Exynos,Octa,Mali-T830,256 GB,"16.0,2.0",Yes,Type-C,2350
+76,Samsung Galaxy Grand Prime Plus,385,Yes,144.8,72.1,8.9,160,Dual,TFT,5.0,540,960,Android 6.0,Mediatek,Quad,Mali-T720MP2,256 GB,"8.0,1.5",Yes,microUSB 2.0,2600
+77,Samsung Galaxy J,385,Yes,144.8,72.1,8.9,160,Single,TFT,5.0,540,960,Android 6.0,Mediatek,Quad,Mali-T720MP2,256 GB,"8.0,1.5",Yes,microUSB 2.0,2600
+78,Samsung Galaxy C,385,Yes,162.9,80.7,6.9,189,Dual,AMOLED,6.0,1080,1920,Android 6.0.1,Qualcomm,Octa,Adreno,256 GB,"64.0,6.0",Yes,Type-C,4000
+79,Samsung Galaxy C,385,Yes,-,-,-,-,Dual,AMOLED,6.0,1080,1920,Android 7.1.1,Qualcomm,Octa,Adreno,256 GB,"64.0,6.0",Yes,Type-C,4000
+80,Samsung Galaxy A,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,182,Single,AMOLED,5.7,1080,1920,Android 6.0.1,Exynos,Octa,Mali-T760MP8,256 GB,"32.0,3.0",Yes,microUSB 2.0,3300
+81,Samsung Galaxy On8,385,Yes,151.7,76,7.8,169,Dual,AMOLED,5.5,1080,1920,Android 6.0.1,Exynos,Octa,Mali-T720MP2,256 GB,"16.0,3.0",Yes,microUSB 2.0,3300
+82,Samsung Galaxy On7 (2016),385,Yes,151.7,75,8,167,Dual,"Capacitive touchscreen, 16M colors",5.5,1080,1920,Android 6.0.1,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,3300
+83,Samsung Gear S3 classic,0,No,49,46,12.9,microUSB 2.0,No,AMOLED,1.3,360,360,Tizen,Exynos,Dual,-,No,"4.0,0.75",Yes,No,380
+84,Samsung Gear S3 frontier,0,No,49,46,12.9,63,No,AMOLED,1.3,360,360,Tizen,Exynos,Dual,-,No,"4.0,0.75",Yes,No,380
+85,Samsung Gear S3 frontier LTE,385,Yes,49,46,12.9,63,Electronic SIM card (eSIM),AMOLED,1.3,360,360,Tizen,Exynos,Dual,-,No,"4.0,0.75",Yes,No,380
+86,Samsung Galaxy J,385,Yes,142.8,69.5,8.1,143,Dual,TFT,5.0,720,1280,Android 6.0.1,Exynos,Quad,Mali-T720,256 GB,"16.0,2.0",Yes,microUSB 2.0,2400
+87,Samsung Galaxy J,385,Yes,151.7,75,8,167,Single,TFT,5.5,1080,1920,Android 6.0.1,Exynos,Octa,Mali-T830,256 GB,"16.0,3.0",Yes,microUSB 2.0,3300
+88,Samsung Z2,385,Yes,121.5,63,10.8,127,Dual,TFT,4.0,480,800,Tizen,Spreadtrum,Quad,Mali-400MP2,200 GB,"8.0,1.0",Yes,microUSB 2.0,1500
+89,Samsung Galaxy Note7 (USA),2310,Yes,153.5,73.9,7.9,169,Single,AMOLED,5.7,1440,2560,Android 6.0.1,Qualcomm,Quad,Adreno,512 GB,"64.0,4.0",Yes,Type-C,3500
+90,Samsung Galaxy Note7,385,Yes,153.5,73.9,7.9,169,Single,AMOLED,5.7,1440,2560,Android 6.0.1,Exynos,Octa,Mali-T880,512 GB,"64.0,4.0",Yes,Type-C,3500
+91,Samsung Galaxy On7 Pro,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,172,Dual,TFT,5.5,720,1280,Android 6.0.1,Qualcomm,Quad,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,3000
+92,Samsung Galaxy On5 Pro,385,Yes,142.3,72.1,8.5,149,Dual,TFT,5.0,720,1280,Android 6.0,Exynos,Quad,Mali-T720,256 GB,"16.0,2.0",Yes,microUSB 2.0,2600
+93,Samsung Galaxy Tab J,385,Yes,186.9,108.8,8.7,289,Single,"PLS capacitive touchscreen, 16M colors",7.0,800,1280,Android 5.1,Spreadtrum,Quad,Mali-400MP2,256 GB,"8.0,1.5",Yes,microUSB 2.0,4000
+94,Samsung Galaxy J,385,Yes,186.9,108.8,8.7,289,Dual,TFT,7.0,800,1280,Android 5.1,Spreadtrum,Quad,Mali-400MP2,256 GB,"8.0,1.5",Yes,microUSB 2.0,4000
+95,Samsung Galaxy J,385,Yes,142.4,71.1,8,138,Dual,AMOLED,5.0,720,1280,Android 6.0.1,Spreadtrum,Quad,Mali-400MP2,128 GB,"16.0,2.0",Yes,microUSB 2.0,2600
+96,Samsung Galaxy J,385,Yes,142.4,71.1,8,138,Dual,AMOLED,5.0,720,1280,Android 6.0.1,Spreadtrum,Quad,Mali-400MP2,128 GB,"8.0,1.5",Yes,microUSB 2.0,2600
+97,Samsung Z3 Corporate,385,Yes,141.5,69.9,7.9,-,Dual,AMOLED,5.0,720,1280,Tizen,Qualcomm,Quad,Adreno,128 GB,"8.0,1.0",Yes,microUSB 2.0,2600
+98,Samsung Galaxy Xcover 3 G389F,385,Yes,132.9,70.1,10,154,Single,TFT,4.5,480,800,Android 6.0,Exynos,Quad,Mali-T720,256 GB,"8.0,1.5",Yes,microUSB 2.0,2200
+99,Samsung Galaxy S,385,Yes,148.8,74.9,9.9,184.8,Single,AMOLED,5.1,1440,2560,Android 6.0,Qualcomm,Quad,Adreno,512 GB,"32.0,4.0",Yes,microUSB 2.0,4000
+100,Samsung Galaxy J,2310,Yes,142.2,71.3,8,139,Dual,AMOLED,5.0,720,1280,Android 5.1,Qualcomm,Quad,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,2600
+101,Samsung Galaxy C,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,169,Dual,AMOLED,5.7,1080,1920,Android 6.0.1,Qualcomm,Octa,Adreno,256 GB,"32.0,4.0",Yes,microUSB 2.0,3300
+102,Samsung Galaxy C,385,Yes,145.9,72,6.7,143,Dual,AMOLED,5.2,1080,1920,Android 6.0.1,Qualcomm,Octa,Adreno,256 GB,"32.0,4.0",Yes,microUSB 2.0,2600
+103,Samsung Galaxy A,385,Yes,161.7,80.9,7.9,210,Single,AMOLED,6.0,1080,1920,Android 6.0.1,Qualcomm,Octa,Adreno,256 GB,"32.0,4.0",Yes,microUSB 2.0,5000
+104,Samsung Galaxy J,385,Yes,151.7,76,7.8,170,Single,AMOLED,5.5,720,1280,Android 6.0.1,Qualcomm,Octa,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,3300
+105,Samsung Galaxy J,385,Yes,145.8,72.3,8.1,159,Single,AMOLED,5.2,720,1280,Android 6.0.1,Qualcomm,Quad,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,3100
+106,Samsung Galaxy Tab A 10.1 (2016),385,Yes,254.2,155.3,8.2,525,Single,LCD,10.1,1200,1920,Android 6.0,Exynos,Octa,Mali-T830,256 GB,"16.0,3.0",Yes,microUSB 2.0,7300
+107,Samsung Galaxy Tab A 7.0 (2016),385,Yes,186.9,108.8,8.7,283,Single,LCD,7.0,800,1280,Android 5.1.1,Qualcomm,Quad,Adreno,256 GB,"8.0,1.5",Yes,microUSB 2.0,4000
+108,Samsung Galaxy S,385,Yes,142.4,69.6,7.9,152,Single,AMOLED,5.1,1440,2560,Android 6.0,Exynos,Octa,Mali-T880,256 GB,"32.0,4.0",Yes,microUSB 2.0,3000
+109,Samsung Galaxy S,385,Yes,150.9,72.6,7.7,157,Single,AMOLED,5.5,1440,2560,Android 6.0,Qualcomm,Quad,Adreno,512 GB,"32.0,4.0",Yes,microUSB 2.0,3600
+110,Samsung Galaxy S,2310,Yes,150.9,72.6,7.7,157,Single,AMOLED,5.5,1440,2560,Android 6.0,Qualcomm,Quad,Adreno,512 GB,"32.0,4.0",Yes,microUSB 2.0,3600
+111,Samsung Galaxy S,2310,Yes,142.4,69.6,7.9,152,Single,AMOLED,5.1,1440,2560,Android 6.0,Qualcomm,Quad,Adreno,512 GB,"32.0,4.0",Yes,microUSB 2.0,3000
+112,Samsung Galaxy J,35,Yes,126.6,63.1,10.8,123,Dual,TFT,4.0,480,800,Android 5.1,Spreadtrum,Quad,Mali-400MP2,256 GB,"8.0,1.0",Yes,microUSB 2.0,1500
+113,Samsung Gear S2 classic 3G,35,No,44,46.9,13.4,54,Electronic SIM card (eSIM),AMOLED,1.2,360,360,Tizen,Dual,Dual,Mali-400MP2,No,"4.0,0.5",No,No,300
+114,Samsung Galaxy Tab E 8.0,462,Yes,212.1,126.1,8.9,360,Single,TFT,8.0,800,1280,Android 5.1.1,Qualcomm,Quad,Adreno,256 GB,"16.0,1.5",Yes,microUSB 2.0,5000
+115,Samsung Galaxy J,385,Yes,132.6,69.3,8.9,131,Single,AMOLED,4.5,480,800,Android 5.1.1,Spreadtrum,Quad,Mali-400,256 GB,"8.0,1.0",Yes,microUSB 2.0,2050
+116,Samsung Galaxy A,385,Yes,161.7,80.9,7.4,200,Single,AMOLED,6.0,1080,1920,Android 5.1.1,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,4000
+117,Samsung Galaxy A,385,Yes,151.5,74.1,7.3,172,Single,AMOLED,5.5,1080,1920,Android 5.1.1,Exynos,Octa,Mali-T720MP2Adreno,256 GB,"16.0,3.0",Yes,microUSB 2.0,3300
+118,Samsung Galaxy A,5005,Yes,144.8,71,7.3,155,Single,AMOLED,5.2,1080,1920,Android 5.1.1,Exynos,Octa,Mali-T720MP2Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,2900
+119,Samsung Galaxy A,385,Yes,134.5,65.2,7.3,132,Single,AMOLED,4.7,720,1280,Android 5.1.1,Exynos,Quad,Mali-T720MP2Adreno,256 GB,"16.0,1.5",Yes,microUSB 2.0,2300
+120,Samsung Galaxy Express Prime,385,Yes,142.2,71.1,7.9,138.9,Single,AMOLED,5.0,720,1280,Android 6.0,Exynos,Quad,Mali-T720,256 GB,"16.0,1.5",Yes,microUSB 2.0,2600
+121,Samsung Galaxy J,385,Yes,142.3,71,7.9,138,Single,AMOLED,5.0,720,1280,Android 5.1.1,Spreadtrum,Quad,Mali-400Mali-T720,256 GB,"8.0,1.5",Yes,microUSB 2.0,2600
+122,Samsung Galaxy View,77,Yes,451.8,275.8,11.9,2650,Single,TFT,18.4,1080,1920,Android 5.1.1,Exynos,Octa,Mali-T720MP2,256 GB,"32.0,2.0",Yes,microUSB 2.0,5700
+123,Samsung Galaxy On7,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,172,Dual,TFT,5.5,720,1280,Android 5.1,Qualcomm,Quad,Adreno,256 GB,"8.0,1.5",Yes,microUSB 2.0,3000
+124,Samsung Galaxy On5,385,Yes,142.3,72.1,8.5,149,Dual,TFT,5.0,720,1280,Android 5.1,Exynos,Quad,Mali-T720,256 GB,"8.0,1.5",Yes,microUSB 2.0,2600
+125,Samsung Z3,35,Yes,141.6,70,7.9,137,Dual,AMOLED,5.0,720,1280,Tizen,Spreadtrum,Quad,Mali-400,128 GB,"8.0,1.0",Yes,microUSB 2.0,2600
+126,Samsung Galaxy J,385,Yes,130.1,67.6,9.5,131,Single,AMOLED,4.3,480,800,Android 4.4.4,Spreadtrum,Dual,Mali-400MP2Vivante,256 GB,"4.0,0.5",Yes,microUSB 2.0,1900
+127,Samsung Gear S2 classic,0,No,43.6,39.9,11.4,42,No,AMOLED,1.2,360,360,Tizen,Dual,Dual,Mali-400MP2,No,"4.0,0.5",No,No,250
+128,Samsung Gear S2,0,No,49.8,42.3,11.4,47,No,AMOLED,1.2,360,360,Tizen,Dual,Dual,Mali-400MP2,No,"4.0,0.5",No,No,250
+129,Samsung Gear S2 3G,35,Yes,microUSB 2.0,microUSB 2.0,microUSB 2.0,51,Electronic SIM card (eSIM),AMOLED,1.2,360,360,Tizen,Qualcomm,Dual,-,No,"4.0,0.5",Yes,No,300
+130,Samsung Galaxy Note5 (USA),770,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,171,Single,AMOLED,5.7,1440,2560,Android 5.1.1,Exynos,Octa,Mali-T760MP8,No,"32.0,4.0",Yes,microUSB 2.0,3000
+131,Samsung Galaxy Note5,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,171,Single,AMOLED,5.7,1440,2560,Android 5.1.1,Exynos,Octa,Mali-T760MP8,No,"32.0,4.0",Yes,microUSB 2.0,3000
+132,Samsung Galaxy Note5 Duos,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,171,Dual,AMOLED,5.7,1440,2560,Android 5.1.1,Exynos,Octa,Mali-T760MP8,No,"32.0,4.0",Yes,microUSB 2.0,3000
+133,Samsung Galaxy S,770,Yes,154.4,75.8,6.9,153,Single,AMOLED,5.7,1440,2560,Android 5.1.1,Exynos,Octa,Mali-T760MP8,No,"32.0,4.0",Yes,microUSB 2.0,3000
+134,Samsung Galaxy S,385,Yes,154.4,75.8,6.9,153,Single,AMOLED,5.7,1440,2560,Android 5.1.1,Exynos,Octa,Mali-T760MP8,No,"32.0,4.0",Yes,microUSB 2.0,3000
+135,Samsung Galaxy S,385,Yes,154.4,75.8,6.9,153,Dual,AMOLED,5.7,1440,2560,Android 5.1.1,Exynos,Octa,Mali-T760MP8,No,"32.0,4.0",Yes,microUSB 2.0,3000
+136,Samsung Galaxy S,385,Yes,142,72.5,8.1,145,Single,AMOLED,5.1,1080,1920,Android 5.1.1,Exynos,Octa,Mali-T720MP2,256 GB,"16.0,2.0",Yes,microUSB 2.0,2800
+137,Samsung Galaxy S,385,Yes,124.6,61.3,8.9,107,Single,AMOLED,4.3,540,960,Android 4.4.4,Qualcomm,Quad,Adreno,64 GB,"8.0,1.5",Yes,microUSB 2.0,1900
+138,Samsung Galaxy Folder,385,Yes,122,60.2,15.3,155,Single,TFT,3.8,480,800,Android 5.1,-,Quad,-,256 GB,"8.0,1.5",Yes,microUSB 2.0,1800
+139,Samsung Galaxy Tab S2 9.7,385,Yes,237.3,169,5.6,389,Single,AMOLED,9.7,1536,2048,Android 5.0.2,Exynos,Octa,Mali-T760,256 GB,"32.0,3.0",Yes,microUSB 2.0,5870
+140,Samsung Galaxy Tab S2 8.0,385,Yes,198.6,134.8,5.6,265,Single,AMOLED,8.0,1536,2048,Android 5.0.2,Exynos,Octa,Mali-T760,256 GB,"32.0,3.0",Yes,microUSB 2.0,4000
+141,Samsung Galaxy A,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,151,Dual,AMOLED,5.7,1080,1920,Android 5.1,Qualcomm,Octa,Adreno,256 GB,"32.0,2.0",Yes,microUSB 2.0,3050
+142,Samsung Galaxy A,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,151,Single,AMOLED,5.7,1080,1920,Android 5.1.1,Qualcomm,Octa,Adreno,256 GB,"32.0,2.0",Yes,microUSB 2.0,3050
+143,Samsung Galaxy V Plus,35,Yes,121.4,62.9,10.7,123,Dual,TFT,4.0,480,800,Android 4.4.2,-,Dual,-,64 GB,"4.0,0.5",Yes,microUSB 2.0,1500
+144,Samsung Galaxy J,385,Yes,152.2,78.7,7.5,171,Single,AMOLED,5.5,720,1280,Android 5.1,Qualcomm,Octa,Adreno,256 GB,"16.0,1.5",Yes,microUSB 2.0,3000
+145,Samsung Galaxy J,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,170,Dual,AMOLED,5.5,720,1280,Android 7.0,Exynos,Octa,Mali-T830,256 GB,"16.0,2.0",Yes,microUSB 2.0,3000
+146,Samsung Galaxy J,385,Yes,142.1,71.8,7.9,146,Single,AMOLED,5.0,720,1280,Android 5.1,Qualcomm,Quad,Adreno,256 GB,"8.0,1.5",Yes,microUSB 2.0,2600
+147,Samsung Galaxy Tab 4 10.1 (2015),0,No,243.4,176.4,7.9,487,No,TFT,10.1,1280,800,Android 4.4.4,Qualcomm,Quad,Adreno,64 GB,"16.0,1.5",Yes,microUSB 2.0,6800
+148,Samsung Galaxy Tab E 9.6,35,Yes,241.9,149.5,8.5,490,Single,TFT,9.6,800,1280,Android 4.4,-,Quad,-,256 GB,"8.0,1.5",Yes,microUSB 2.0,5000
+149,Samsung Guru Plus ,5,No,108,45,13.2,66,Dual,TFT,1.5,128,128,-,-,208 MHz,-,No,-,No,microUSB 2.0,800
+150,Samsung Metro 360,5,Yes,117.3,49.5,11.4,83,Dual,TFT,2.4,240,320,-,-,312 MHz,-,16 GB,-,No,microUSB 2.0,1000
+151,Samsung Xcover 550,35,Yes,129,56.2,14,124,Single,TFT,2.4,240,320,-,Spreadtrum,Dual,-,16 GB,"0.25,0.125",To be confirmed,microUSB 2.0,1300
+152,Samsung Galaxy S,385,Yes,146.8,73.4,8.6,170,Single,AMOLED,5.1,1440,2560,Android 5.0.2,Exynos,Octa,Mali-T760MP8,No,"32.0,3.0",Yes,microUSB 2.0,3500
+153,Samsung Galaxy Tab 3 V,35,Yes,193.4,116.4,9.7,322,Single,TFT,7.0,600,1024,Android 4.4,-,Quad,-,32 GB,"8.0,1.0",Yes,microUSB 2.0,3600
+154,Samsung Galaxy Tab A 9.7 & S Pen,385,Yes,242.5,166.8,7.5,490,Single,TFT,9.7,768,1024,Android 5.0,-,Quad,-,256 GB,"16.0,2.0",Yes,microUSB 2.0,6000
+155,Samsung Galaxy Tab A 9.7,385,Yes,242.5,166.8,7.5,450,Single,TFT,9.7,768,1024,Android 5.0,-,Quad,-,256 GB,"16.0,1.5",Yes,microUSB 2.0,6000
+156,Samsung Galaxy Tab A 8.0 & S Pen,385,Yes,208.4,137.9,7.5,338,Single,TFT,8.0,768,1024,Android 5.0,-,Quad,-,256 GB,"16.0,2.0",Yes,microUSB 2.0,4200
+157,Samsung Galaxy Tab A 8.0,385,Yes,208.3,137.9,7.4,313,Single,TFT,8.0,768,1024,Android 5.0,-,Quad,-,256 GB,"16.0,1.5",Yes,microUSB 2.0,4200
+158,Samsung Galaxy Xcover 3,385,Yes,132.9,70.1,10,154,Single,TFT,4.5,480,800,Android 4.4.4,Marvell,Quad,Vivante,256 GB,"8.0,1.5",Yes,microUSB 2.0,2200
+159,Samsung Galaxy S,2310,Yes,142,70.1,7.1,132,Single,AMOLED,5.1,1440,2560,Android 5.0.2,Exynos,Octa,Mali-T760MP8,No,"32.0,3.0",Yes,microUSB 2.0,2600
+160,Samsung Galaxy S,2310,Yes,143.5,70.6,6.9,140,Single,AMOLED,5.1,1440,2560,Android 5.0.2,Exynos,Octa,Mali-T760MP8,No,"32.0,3.0",Yes,microUSB 2.0,2550
+161,Samsung Galaxy S,385,Yes,142.1,70.1,7,132,Single,AMOLED,5.1,1440,2560,Android 5.0.2,Exynos,Octa,Mali-T760MP8,No,"32.0,3.0",Yes,microUSB 2.0,2600
+162,Samsung Galaxy S,385,Yes,-,-,-,-,Single,AMOLED,5.5,1080,1920,Android 5.0.2,Exynos,Octa,Mali-T760MP8,To be confirmed,"32.0,4.0",Yes,microUSB 2.0,3000
+163,Samsung Galaxy S,385,Yes,143.4,70.5,6.8,138,Dual,AMOLED,5.1,1440,2560,Android 5.0.2,Exynos,Octa,Mali-T760MP8,No,"32.0,3.0",Yes,microUSB 2.0,2550
+164,Samsung Galaxy S,385,Yes,143.4,70.5,6.8,138,Single,AMOLED,5.1,1440,2560,Android 5.0.2,Exynos,Octa,Mali-T760MP8,No,"32.0,3.0",Yes,microUSB 2.0,2550
+165,Samsung Galaxy J,385,Yes,129,68.2,8.9,122,Single,TFT,4.3,480,800,Android 4.4.4,-,Quad,-,256 GB,"4.0,0.75",Yes,microUSB 2.0,1850
+166,Samsung Galaxy J,35,Yes,129,68.2,8.9,122,Single,TFT,4.3,480,800,Android 4.4.4,Spreadtrum,Dual,Mali-400,256 GB,"4.0,0.5",Yes,microUSB 2.0,1850
+167,Samsung Galaxy J,385,Yes,136.5,69,8.4,129,Single,AMOLED,4.7,540,960,Android 5.1.1,Exynos,Quad,Mali-T720,256 GB,"8.0,1.0",Yes,microUSB 2.0,2000
+168,Samsung Galaxy Tab 3 Lite 7.0 VE,0,No,193.4,116.4,9.7,310,No,TFT,7.0,600,1024,Android 4.4.4,Spreadtrum,Quad,Mali-400MP,32 GB,"8.0,1.0",Yes,microUSB 2.0,3600
+169,Samsung Z1,35,Yes,120.4,63.2,9.7,112,Dual,TFT,4.0,480,800,Tizen,Spreadtrum,Dual,Mali-400,64 GB,"4.0,0.75",Yes,microUSB 2.0,1500
+170,Apple iPad Air (2019),385,Yes,250.6,174.1,6.1,456,Single,LCD,10.5,1668,2224,iOS 12.1.3,Apple,Hexa,Apple,No,"64.0,3.0",Yes,microUSB 2.0,8600
+171,Apple iPad mini (2019),385,Yes,203.2,134.8,6.1,300.5,Single,LCD,7.9,1536,2048,iOS 12.1.3,Apple,Hexa,Apple,No,"64.0,3.0",Yes,microUSB 2.0,5124
+172,Apple iPad Pro 12.9 (2018),2310,Yes,280.6,214.9,5.9,631,Single,LCD,12.9,2048,2732,iOS 12,Apple,Octa,Apple,No,"1024.0,6.0",Yes,Type-C,9720
+173,Apple iPad Pro 11,2310,Yes,247.6,178.5,5.9,468,Single,LCD,11.0,1668,2388,iOS 12,Apple,Octa,Apple,No,"1024.0,6.0",Yes,Type-C,7812
+174,Apple iPhone XS Max,2310,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,208,Single,"OLED capacitive touchscreen, 16M colors",6.5,1242,2688,iOS 12,Apple,Hexa,Apple,No,"64.0,4.0",Yes,microUSB 2.0,3174
+175,Apple iPhone XS,2310,Yes,143.6,70.9,7.7,177,Single,"OLED capacitive touchscreen, 16M colors",5.8,1125,2436,iOS 12,Apple,Hexa,Apple,No,"64.0,4.0",Yes,microUSB 2.0,2658
+176,Apple iPhone XR,2310,Yes,150.9,75.7,8.3,194,Single,LCD,6.1,828,1792,iOS 12,Apple,Hexa,Apple,No,"64.0,3.0",Yes,microUSB 2.0,2942
+177,Apple Watch Series 4,385,Yes,44,38,10.7,48,Electronic SIM card (eSIM),"LTPO OLED capacitive touchscreen, 16M colors",1.78,448,368,watchOS 5.0,Apple,Dual,PowerVR,No,-,Yes,No,battery
+178,Apple Watch Series 4 Aluminum,385,Yes,44,38,10.7,36.7,Electronic SIM card (eSIM),"LTPO OLED capacitive touchscreen, 16M colors",1.78,448,368,watchOS 5.0,Apple,Dual,PowerVR,No,-,Yes,No,battery
+179,Apple iPad 9.7 (2018),2310,Yes,240,169.5,7.5,469,Single,LCD,9.7,1536,2048,iOS 11.3,Apple,Quad,PowerVR,No,"32.0,2.0",Yes,microUSB 2.0,7306
+180,Apple iPhone X,385,Yes,143.6,70.9,7.7,174,Single,"OLED capacitive touchscreen, 16M colors",5.8,1125,2436,iOS 11.1.1,Apple,Hexa,Apple,No,"64.0,3.0",Yes,microUSB 2.0,2716
+181,Apple iPhone 8 Plus,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,202,Single,LCD,5.5,1080,1920,iOS 11,Apple,Hexa,Apple,No,"64.0,3.0",Yes,microUSB 2.0,2691
+182,Apple iPhone 8,385,Yes,138.4,67.3,7.3,148,Single,LCD,4.7,750,1334,iOS 11,Apple,Hexa,Apple,No,"64.0,2.0",Yes,microUSB 2.0,1821
+183,Apple Watch Edition Series 3,385,Yes,42.6,36.5,11.4,46.4,Electronic SIM card (eSIM),"OLED capacitive touchscreen, 16M colors",1.65,390,312,watchOS 4.0,Apple,Dual,PowerVR,No,"16.0,0.75",Yes,No,279
+184,Apple Watch Series 3,385,Yes,42.5,36.4,11.4,52.8,Electronic SIM card (eSIM),"OLED capacitive touchscreen, 16M colors",1.65,390,312,watchOS 4.0,Apple,Dual,PowerVR,No,"16.0,0.75",Yes,No,279
+185,Apple Watch Series 3 Aluminum,385,Yes,42.5,36.4,11.4,34.9,Electronic SIM card (eSIM),"OLED capacitive touchscreen, 16M colors",1.65,390,312,watchOS 4.0,Apple,Dual,PowerVR,No,"8.0,0.75",Yes,No,279
+186,Apple iPad Pro 12.9 (2017),2310,Yes,microUSB 2.0,microUSB 2.0,microUSB 2.0,677,Single,LCD,12.9,2732,2048,iOS 10.3.2,Apple,-,-,No,"64.0,4.0",Yes,microUSB 3.0,"10,891"
+187,Apple iPad Pro 10.5 (2017),2310,Yes,250.6,174.1,6.1,469,Single,LCD,10.5,1668,2224,iOS 10.3.2,Apple,-,-,No,"64.0,4.0",Yes,microUSB 3.0,8134
+188,Apple iPad 9.7 (2017),2310,Yes,240,169.5,7.5,469,Single,LCD,9.7,1536,2048,iOS 10.3,Apple,Dual,PowerVR,No,"32.0,2.0",Yes,microUSB 2.0,8827
+189,Apple Watch Edition Series 2 42mm,0,No,42.6,36.5,11.4,45.6,No,"OLED capacitive touchscreen, 16M colors",1.65,390,312,microUSB 3.0,Apple,Dual,PowerVR,No,"8.0,0.5",Yes,No,334
+190,Apple Watch Edition Series 2 38mm,0,No,39.2,34,11.8,39.6,No,"OLED capacitive touchscreen, 16M colors",1.5,340,272,microUSB 3.0,Apple,Dual,PowerVR,No,"8.0,0.5",Yes,No,273
+191,Apple Watch Series 2 42mm,0,No,42.5,36.4,11.4,52.4,No,"OLED capacitive touchscreen, 16M colors",1.65,390,312,microUSB 3.0,Apple,Dual,PowerVR,No,"8.0,0.5",Yes,No,334
+192,Apple Watch Series 2 38mm,0,No,38.6,33.3,11.4,41.9,No,"OLED capacitive touchscreen, 16M colors",1.5,340,272,microUSB 3.0,Apple,Dual,PowerVR,No,"8.0,0.5",Yes,No,273
+193,Apple Watch Series 2 Aluminum 42mm,0,No,42.5,36.4,11.4,34.2,No,"OLED capacitive touchscreen, 16M colors",1.65,390,312,microUSB 3.0,Apple,Dual,PowerVR,No,"8.0,0.5",Yes,No,334
+194,Apple Watch Series 1 Aluminum 42mm,0,No,42.5,36.4,10.5,30,No,"OLED capacitive touchscreen, 16M colors",1.65,390,312,microUSB 3.0,Apple,Dual,PowerVR,No,"8.0,0.5",No,No,250
+195,Apple Watch Series 2 Aluminum 38mm,0,No,38.6,33.3,11.4,28.2,No,"OLED capacitive touchscreen, 16M colors",1.5,340,272,microUSB 3.0,Apple,Dual,PowerVR,No,"8.0,0.5",Yes,No,273
+196,Apple Watch Series 1 Aluminum 38mm,0,No,38.6,33.3,10.5,25,No,"OLED capacitive touchscreen, 16M colors",1.5,340,272,microUSB 3.0,Apple,Dual,PowerVR,No,"8.0,0.5",No,No,205
+197,Apple iPhone 7 Plus,2310,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,188,Single,LCD,5.5,1080,1920,iOS 10.0.1,Apple,Quad,PowerVR,No,"32.0,3.0",Yes,microUSB 2.0,2900
+198,Apple iPhone 7,2310,Yes,138.3,67.1,7.1,138,Single,LCD,4.7,750,1334,iOS 10.0.1,Apple,Quad,PowerVR,No,"32.0,2.0",Yes,microUSB 2.0,1960
+199,Apple iPad Pro 9.7 (2016),2310,Yes,240,169.5,6.1,437,Single,LCD,9.7,1536,2048,iOS 9.3.2,Apple,Dual,PowerVR,No,"32.0,2.0",Yes,microUSB 2.0,7306
+200,Apple iPhone SE,2310,Yes,123.8,58.6,7.6,113,Single,LCD,4.0,640,1136,iOS 9.3.2,Apple,Dual,PowerVR,No,"16.0,2.0",Yes,microUSB 2.0,1624
+201,Apple iPhone 6s Plus,2310,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,192,Single,LCD,5.5,1080,1920,iOS 9,Apple,Dual,PowerVR,No,"16.0,2.0",Yes,microUSB 2.0,2750
+202,Apple iPhone 6s,2310,Yes,138.3,67.1,7.1,143,Single,LCD,4.7,750,1334,iOS 9,Apple,Dual,PowerVR,No,"16.0,2.0",Yes,microUSB 2.0,1715
+203,Apple iPad Pro 12.9 (2015),2310,Yes,microUSB 2.0,microUSB 2.0,microUSB 2.0,713,Single,LCD,12.9,2048,2732,iOS 9,Apple,Dual,PowerVR,No,"32.0,4.0",Yes,microUSB 3.0,"10,307"
+204,Apple iPad mini 4,2310,Yes,203.2,134.8,6.1,299,Single,LCD,7.9,1536,2048,iOS 9,Apple,Dual,PowerVR,No,"16.0,2.0",Yes,microUSB 2.0,5124
+205,Apple Watch Edition 42mm (1st gen),0,No,42,35.9,10.5,69,No,"OLED capacitive touchscreen, 16M colors",1.65,390,312,watchOS 1.0,Apple,Cortex,PowerVR,No,"8.0,0.5",No,No,250
+206,Apple Watch Edition 38mm (1st gen),0,No,38.6,33.3,10.5,55,No,"OLED capacitive touchscreen, 16M colors",1.5,340,272,watchOS 1.0,Apple,Cortex,PowerVR,No,"8.0,0.5",No,No,205
+207,Apple Watch 42mm (1st gen),0,No,42,35.9,10.5,50,No,"OLED capacitive touchscreen, 16M colors",1.65,390,312,watchOS 1.0,Apple,Cortex,PowerVR,No,"8.0,0.5",No,No,250
+208,Apple Watch 38mm (1st gen),0,No,38.6,33.3,10.5,40,No,"OLED capacitive touchscreen, 16M colors",1.5,340,272,watchOS 1.0,Apple,Cortex,PowerVR,No,"8.0,0.5",No,No,205
+209,Apple Watch Sport 42mm (1st gen),0,No,42,35.9,10.5,30,No,"OLED capacitive touchscreen, 16M colors",1.65,390,312,watchOS 1.0,Apple,Cortex,PowerVR,No,"8.0,0.5",No,No,250
+210,Apple Watch Sport 38mm (1st gen),0,No,38.6,33.3,10.5,25,No,"OLED capacitive touchscreen, 16M colors",1.5,340,272,watchOS 1.0,Apple,Cortex,PowerVR,No,"8.0,0.5",No,No,205
+211,Apple iPad Air 2,2310,Yes,240,169.5,6.1,437,Single,LCD,9.7,1536,2048,iOS 8.1,Apple,Triple,PowerVR,No,"16.0,2.0",Yes,microUSB 2.0,7340
+212,Apple iPad mini 3,2310,Yes,200,134.7,7.5,331,Single,LCD,7.9,1536,2048,iOS 8.1,Apple,Dual,PowerVR,No,"16.0,1.0",Yes,microUSB 2.0,6470
+213,Apple iPhone 6 Plus,2310,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,172,Single,LCD,5.5,1080,1920,iOS 8,Apple,Dual,PowerVR,No,"16.0,1.0",Yes,microUSB 2.0,2915
+214,Apple iPhone 6,2310,Yes,138.1,67,6.9,129,Single,LCD,4.7,750,1334,iOS 8,Apple,Dual,PowerVR,No,"16.0,1.0",Yes,microUSB 2.0,1810
+215,Apple iPad Air,2310,Yes,240,169.5,7.5,469,Single,LCD,9.7,1536,2048,iOS 7,Apple,Dual,PowerVR,No,"16.0,1.0",Yes,microUSB 2.0,8600
+216,Apple iPad mini 2,2310,Yes,200,134.7,7.5,331,Single,LCD,7.9,1536,2048,iOS 7,Apple,Dual,PowerVR,No,"16.0,1.0",Yes,microUSB 2.0,6470
+217,Apple iPhone 5s,2310,Yes,123.8,58.6,7.6,112,Single,LCD,4.0,640,1136,iOS 7,Apple,Dual,PowerVR,No,"16.0,1.0",Yes,microUSB 2.0,1560
+218,Apple iPhone 5c,770,Yes,124.4,59.2,9,132,Single,LCD,4.0,640,1136,iOS 7,Apple,Dual,PowerVR,No,"8.0,1.0",Yes,microUSB 2.0,1510
+219,Apple iPad mini Wi-Fi,0,No,200,134.7,7.2,308,No,LCD,7.9,768,1024,iOS 6,Apple,Dual,PowerVR,No,"16.0,0.5",No,microUSB 2.0,4490
+220,Apple iPad mini Wi-Fi + Cellular,770,Yes,200,134.7,7.2,312,Single,LCD,7.9,768,1024,iOS 6,Apple,Dual,PowerVR,No,"16.0,0.5",Yes,microUSB 2.0,4490
+221,Apple iPad 4 Wi-Fi,0,No,241.2,185.7,9.4,652,No,LCD,9.7,1536,2048,iOS 6,Apple,Dual,PowerVR,No,"16.0,1.0",No,microUSB 2.0,11560
+222,Apple iPad 4 Wi-Fi + Cellular,2310,Yes,241.2,185.7,9.4,662,Single,LCD,9.7,1536,2048,iOS 6,Apple,Dual,PowerVR,No,"16.0,1.0",Yes,microUSB 2.0,11560
+223,Apple iPhone 5,2310,Yes,123.8,58.6,7.6,112,Single,LCD,4.0,640,1136,iOS 6,Apple,Dual,PowerVR,No,"16.0,1.0",Yes,microUSB 2.0,1440
+224,Apple iPad 3 Wi-Fi + Cellular,2310,Yes,241.2,185.7,9.4,662,Single,LCD,9.7,1536,2048,iOS 5.1,Apple,Dual,PowerVR,No,"16.0,1.0",Yes,microUSB 2.0,11560
+225,Apple iPad 3 Wi-Fi,0,No,241.2,185.7,9.4,652,No,LCD,9.7,1536,2048,iOS 5.1,Apple,Dual,PowerVR,No,"16.0,1.0",No,microUSB 2.0,11560
+226,Apple iPhone 4s,210,Yes,115.2,58.6,9.3,140,Single,LCD,3.5,640,960,iOS 5,Apple,Dual,PowerVR,No,"8.0,0.5",Yes,microUSB 2.0,1432
+227,Apple iPad 2 Wi-Fi + 3G,35,Yes,241.2,185.7,8.8,607,Single,LCD,9.7,768,1024,iOS 4,Apple,Dual,PowerVR,No,"16.0,0.5",Yes,microUSB 2.0,6930
+228,Apple iPad 2 Wi-Fi,0,No,241.2,185.7,8.8,601,No,LCD,9.7,768,1024,iOS 4,Apple,Dual,PowerVR,No,"16.0,0.5",No,microUSB 2.0,6930
+229,Apple iPad 2 CDMA,6,No,241.2,185.7,8.8,607,Single,LCD,9.7,768,1024,iOS 4,Apple,Dual,PowerVR,No,"16.0,0.5",Yes,microUSB 2.0,6930
+230,Apple iPhone 4,35,Class 10,115.2,58.6,9.3,137,Single,LCD,3.5,640,960,iOS 4,Apple,Cortex,PowerVR,No,"8.0,0.5",Yes,microUSB 2.0,1420
+231,Apple iPhone 4 CDMA,6,No,115.2,58.6,9.3,137,Single,LCD,3.5,640,960,iOS 4,Apple,Cortex,PowerVR,No,"16.0,0.5",Yes,microUSB 2.0,1420
+232,Apple iPad Wi-Fi + 3G,35,Yes,242.8,189.7,13.4,730,Single,LCD,9.7,768,1024,iOS 4,Apple,Cortex,PowerVR,No,"16.0,0.25",Yes,microUSB 2.0,6600
+233,Apple iPad Wi-Fi,0,No,242.8,189.7,13.4,680,No,LCD,9.7,768,1024,iOS 4,Apple,Cortex,PowerVR,No,"16.0,0.25",No,microUSB 2.0,6600
+234,Apple iPhone 3GS,35,Yes,115.5,62.1,12.3,135,Single,TFT,3.5,320,480,iOS 3,-,Cortex,PowerVR,No,"8.0,0.25",Yes,microUSB 2.0,battery
+235,Apple iPhone 3G,35,Yes,115.5,62.1,12.3,133,Single,TFT,3.5,320,480,iOS,-,ARM,PowerVR,No,"8.0,0.125",Yes,microUSB 2.0,battery
+236,Apple iPhone,5,Yes,115,61,11.6,135,Single,TFT,3.5,320,480,iOS,-,ARM,PowerVR,No,-,No,microUSB 2.0,battery
+237,Xiaomi Black Shark 2,2310,Yes,163.6,75,8.8,205,Dual,AMOLED,6.39,1080,2340,Android 9.0,Qualcomm,Octa,640,No,"256.0,8.0",Yes,Type-C,4000
+238,Xiaomi Redmi 7,770,Yes,158.7,75.6,8.5,180,Dual,LCD,6.26,720,1520,Android 9.0,Qualcomm,Octa,Adreno,512 GB,"64.0,4.0",Yes,microUSB 2.0,4000
+239,Xiaomi Redmi Note 7 Pro,385,Yes,159.2,75.2,8.1,186,Dual,LCD,6.3,1080,2340,Android 9.0,Qualcomm,Octa,Adreno,256 GB,"128.0,6.0",Yes,Type-C,4000
+240,Xiaomi Mi Mix 3 5G,2310,Yes,157.9,74.7,9.4,-,Dual,AMOLED,6.39,1080,2340,Android 9.0,Qualcomm,Octa,Adreno,No,"64.0,6.0",Yes,Type-C,3800
+241,Xiaomi Mi 9 Explorer,770,Yes,157.5,74.7,7.6,173,Dual,AMOLED,6.39,1080,2340,Android 9.0,Qualcomm,Octa,Adreno,No,"256.0,8.0",Yes,Type-C,3300
+242,Xiaomi Mi 9 SE,770,Yes,147.5,70.5,7.5,155,Dual,AMOLED,5.97,1080,2340,Android 9.0,Qualcomm,Octa,Adreno,No,"64.0,6.0",Yes,Type-C,3070
+243,Xiaomi Mi 9,770,Yes,157.5,74.7,7.6,173,Dual,AMOLED,6.39,1080,2340,Android 9.0,Qualcomm,Octa,Adreno,No,"64.0,6.0",Yes,Type-C,3300
+244,Xiaomi Redmi Go,385,Yes,140.4,70.1,8.4,137,Dual,LCD,5.0,720,1280,Android 8.1,Qualcomm,Quad,Adreno,128 GB,"8.0,1.0",Yes,microUSB 2.0,3000
+245,Xiaomi Redmi Note 7,385,Yes,159.2,75.2,8.1,186,Dual,LCD,6.3,1080,2340,Android 9.0,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,Type-C,4000
+246,Xiaomi Mi Play,770,Yes,147.8,71.9,7.8,150,Dual,LCD,5.84,1080,2280,Android 9.0,Mediatek,Octa,PowerVR,256 GB,"64.0,4.0",Yes,microUSB 2.0,3000
+247,Xiaomi Mi Mix 3,2310,Yes,157.9,74.7,8.5,218,Dual,AMOLED,6.39,1080,2340,Android 9.0,Qualcomm,Octa,Adreno,No,"256.0,8.0",Yes,Type-C,3200
+248,Xiaomi Black Shark Helo,2310,Yes,160,75.2,8.7,190,Dual,AMOLED,6.01,1080,2160,Android 8.0,Qualcomm,Octa,Adreno,No,"256.0,10.0",Yes,Type-C,4000
+249,Xiaomi Redmi Note 6 Pro,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,182,Dual,LCD,6.26,1080,2280,Android 8.1,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,microUSB 2.0,4000
+250,Xiaomi Mi 8 Pro,385,Yes,154.9,74.8,7.6,177,Dual,AMOLED,6.21,1080,2248,Android 8.1,Qualcomm,Octa,Adreno,No,"128.0,6.0",Yes,Type-C,3000
+251,Xiaomi Mi 8 Lite,770,Yes,156.4,75.8,7.5,169,Dual,LCD,6.26,1080,2280,Android 8.1,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,Type-C,3350
+252,Xiaomi Pocophone F1,385,Yes,155.5,75.3,8.8,182,Dual,LCD,6.18,1080,2246,Android 8.1,Qualcomm,Octa,Adreno,256 GB,"256.0,8.0",Yes,Type-C,4000
+253,Xiaomi Mi A2 (Mi 6X),770,Yes,158.7,75.4,7.3,166,Dual,LCD,5.99,1080,2160,Android 8.1,Qualcomm,Octa,Adreno,No,"128.0,6.0",Yes,Type-C,3000
+254,Xiaomi Mi A2 Lite (Redmi 6 Pro),770,Yes,149.3,71.7,8.8,178,Dual,LCD,5.84,1080,2280,Android 8.1,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,microUSB 2.0,4000
+255,Xiaomi Mi Max 3,2310,Yes,176.2,87.4,8,221,Dual,LCD,6.9,1080,2160,Android 8.1,Qualcomm,Octa,Adreno,256 GB,"128.0,6.0",Yes,Type-C,5500
+256,Xiaomi Mi Pad 4,11,No,200.2,120.3,7.9,342.5,Single,LCD,8.0,1200,1920,Android 8.1,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,Type-C,6000
+257,Xiaomi Mi Pad 4 Plus,11,No,245.6,149.1,8,485,Single,LCD,10.1,1200,1920,Android 8.1,Qualcomm,Octa,Adreno,256 GB,"128.0,4.0",Yes,Type-C,8620
+258,Xiaomi Redmi 6,770,Yes,147.5,71.5,8.3,146,Dual,LCD,5.45,720,1440,Android 8.1,Mediatek,Octa,PowerVR,256 GB,"64.0,4.0",Yes,microUSB 2.0,3000
+259,Xiaomi Redmi 6A,770,Yes,147.5,71.5,8.3,145,Dual,LCD,5.45,720,1440,Android 8.1,Mediatek,Quad,PowerVR,256 GB,"32.0,3.0",Yes,microUSB 2.0,3000
+260,Xiaomi Mi 8 Explorer,770,Yes,154.9,74.8,7.6,177,Dual,AMOLED,6.21,1080,2248,Android 8.1,Qualcomm,Octa,Adreno,No,"128.0,8.0",Yes,Type-C,3000
+261,Xiaomi Mi 8,770,Yes,154.9,74.8,7.6,175,Dual,AMOLED,6.21,1080,2248,Android 8.1,Qualcomm,Octa,Adreno,No,"64.0,6.0",Yes,Type-C,3400
+262,Xiaomi Mi 8 SE,770,Yes,147.3,73.1,7.5,164,Dual,AMOLED,5.88,1080,2244,Android 8.1,Qualcomm,Octa,Adreno,No,"128.0,6.0",Yes,Type-C,3120
+263,Xiaomi Redmi S2 (Redmi Y2),770,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,170,Dual,LCD,5.99,720,1440,Android 8.1,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,microUSB 2.0,3080
+264,Xiaomi Mi Mix 2S,2310,Yes,150.9,74.9,8.1,191,Dual,LCD,5.99,1080,2160,Android 8.0,Qualcomm,Octa,Adreno,No,"256.0,8.0",Yes,Type-C,3400
+265,Dual,770,Yes,158.6,75.4,8.1,181,Dual,LCD,5.99,1080,2160,Android 8.0,Qualcomm,Octa,Adreno,128 GB,"64.0,4.0",Yes,microUSB 2.0,4000
+266,Xiaomi Redmi Note 5 Pro,385,Yes,158.6,75.4,8.1,181,Dual,LCD,5.99,1080,2160,Android 7.1.2,Qualcomm,Octa,Adreno,128 GB,"64.0,4.0",Yes,microUSB 2.0,4000
+267,Xiaomi Black Shark,2310,Yes,161.6,75.4,9.3,190,Dual,LCD,5.99,1080,2160,Android 8.0,Qualcomm,Octa,Adreno,No,"128.0,8.0",Yes,Type-C,4000
+268,Xiaomi Redmi Note 5 (Redmi 5 Plus),385,Yes,158.5,75.5,8.1,180,Dual,LCD,5.99,1080,2160,Android 7.1.2,Qualcomm,Octa,Adreno,128 GB,"64.0,4.0",Yes,microUSB 2.0,4000
+269,Xiaomi Redmi 5,770,Yes,151.8,72.8,7.7,157,Dual,LCD,5.7,720,1440,Android 7.1.2,Qualcomm,Octa,Adreno,128 GB,"32.0,3.0",Yes,microUSB 2.0,3300
+270,Xiaomi Redmi 5A,770,Yes,140.4,70.1,8.4,137,Dual,LCD,5.0,720,1280,Android 7.1.2,Qualcomm,Quad,Adreno,128 GB,"32.0,3.0",Yes,microUSB 2.0,3000
+271,Xiaomi Redmi Y1 (Note 5A),385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,153,Dual,LCD,5.5,720,1280,Android 7.1.2,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,microUSB 2.0,3080
+272,Xiaomi Redmi Y1 Lite,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,150,Dual,LCD,5.5,720,1280,Android 7.0,Qualcomm,Quad,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,3080
+273,Xiaomi Mi Note 3,2310,Yes,152.6,74,7.6,163,Dual,LCD,5.5,1080,1920,Android 7.1,Qualcomm,Octa,Adreno,No,"64.0,6.0",Yes,Type-C,3500
+274,Xiaomi Mi Mix 2,2310,Yes,151.8,75.5,7.7,185,Dual,LCD,5.99,1080,2160,Android 7.1,Qualcomm,Octa,Adreno,No,"128.0,8.0",Yes,Type-C,3400
+275,Xiaomi Mi A1 (Mi 5X),385,Yes,155.4,75.8,7.3,165,Dual,LCD,5.5,1080,1920,Android 7.1.2,Qualcomm,Octa,Adreno,128 GB,"64.0,4.0",Yes,Type-C,3080
+276,Xiaomi Mi Max 2,2310,Yes,174.1,88.7,7.6,211,Dual,LCD,6.44,1080,1920,Android 7.1.1,Qualcomm,Octa,Adreno,256 GB,"32.0,4.0",Yes,Type-C,5300
+277,Xiaomi Redmi 4 (4X),385,Yes,139.2,70,8.7,150,Dual,LCD,5.0,720,1280,Android 6.0.1,Qualcomm,Octa,Adreno,128 GB,"64.0,4.0",Yes,microUSB 2.0,4100
+278,Xiaomi Mi 6,385,Yes,145.2,70.5,7.5,168,Dual,LCD,5.15,1080,1920,Android 7.1.1,Qualcomm,Octa,Adreno,No,"64.0,6.0",Yes,Type-C,3350
+279,Xiaomi Mi Pad 3,0,No,200.4,132.6,7,328,No,LCD,7.9,1536,2048,Android 7.0,Mediatek,Hexa,PowerVR,No,"64.0,4.0",No,Type-C,6600
+280,Xiaomi Mi 5c,55,Yes,144.4,69.7,7.1,135,Dual,LCD,5.15,1080,1920,Android 7.1,Xiaomi,Octa,Mali-T860MP4,No,"64.0,3.0",Yes,Type-C,2860
+281,Xiaomi Redmi Note 4X,770,Yes,151,76,8.5,165,Dual,LCD,5.5,1080,1920,Android 6.0,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,microUSB 2.0,4100
+282,Xiaomi Redmi Note 4,385,Yes,151,76,8.5,165,Dual,LCD,5.5,1080,1920,Android 6.0,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,microUSB 2.0,4100
+283,Xiaomi Redmi 4A,385,Yes,139.9,70.4,8.5,131.5,Dual,LCD,5.0,720,1280,Android 6.0.1,Qualcomm,Quad,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,3120
+284,Xiaomi Redmi 4 (China),2310,Yes,141.3,69.6,8.9,156,Dual,LCD,5.0,720,1280,Android 6.0.1,Qualcomm,Octa,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,4100
+285,Xiaomi Redmi 4 Prime,2310,Yes,141.3,69.6,8.9,156,Dual,LCD,5.0,1080,1920,Android 6.0.1,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,4100
+286,Xiaomi Mi 6 Plus,2310,Yes,-,-,-,-,Dual,LCD,5.7,1080,1920,Android 6.0,Qualcomm,Octa,Adreno,No,"64.0,6.0",Yes,Type-C,4500
+287,Xiaomi Mi Mix,385,Yes,158.8,81.9,7.9,209,Dual,LCD,6.4,1080,2040,Android 6.0,Qualcomm,Quad,Adreno,No,"256.0,6.0",Yes,Type-C,4400
+288,Xiaomi Mi Note 2,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,166,Dual,AMOLED,5.7,1080,1920,Android 6.0,Qualcomm,Quad,Adreno,No,"64.0,6.0",Yes,Type-C,4070
+289,Xiaomi Mi 5s Plus,2310,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,168,Dual,LCD,5.7,1080,1920,Android 6.0,Qualcomm,Quad,Adreno,No,"128.0,6.0",Yes,Type-C,3800
+290,Xiaomi Mi 5s,2310,Yes,145.6,70.3,8.3,145,Dual,LCD,5.15,1080,1920,Android 6.0,Qualcomm,Quad,Adreno,No,"128.0,4.0",Yes,Type-C,3200
+291,Xiaomi Redmi Note 4 (MediaTek),770,Yes,151,76,8.4,175,Dual,LCD,5.5,1080,1920,Android 6.0,Mediatek,Deca,Mali-T880,256 GB,"16.0,2.0",Yes,microUSB 2.0,4100
+292,Xiaomi Redmi Pro,2310,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,174,Dual,AMOLED,5.5,1080,1920,Android 6.0,Mediatek,Deca,Mali-T880,256 GB,"128.0,4.0",Yes,Type-C,4050
+293,Xiaomi Redmi 3x,2310,Yes,139.3,69.6,8.5,144,Dual,LCD,5.0,720,1280,Android 6.0.1,Qualcomm,Octa,Adreno,256 GB,"32.0,2.0",Yes,microUSB 2.0,4100
+294,Xiaomi Redmi 3s Prime,385,Yes,139.3,69.6,8.5,144,Dual,LCD,5.0,720,1280,Android 6.0.1,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,4100
+295,Xiaomi Redmi 3s,385,Yes,139.3,69.6,8.5,144,Dual,LCD,5.0,720,1280,Android 6.0.1,Qualcomm,Octa,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,4100
+296,Xiaomi Redmi 3 Pro,2310,Yes,139.3,69.6,8.5,144,Dual,LCD,5.0,720,1280,Android 5.1,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,4100
+297,Xiaomi Mi 5,1155,Yes,144.6,69.2,7.3,129,Dual,LCD,5.15,1080,1920,Android 6.0,Qualcomm,Quad,Adreno,No,"128.0,4.0",Yes,Type-C,3000
+298,Xiaomi Mi Max,2310,Yes,173.1,88.3,7.5,203,Dual,LCD,6.44,1080,1920,Android 6.0,Qualcomm,Hexa,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,4850
+299,Xiaomi Mi 4s,770,Yes,139.3,70.8,7.8,133,Dual,LCD,5.0,1080,1920,Android 5.1,Qualcomm,Hexa,Adreno,256 GB,"64.0,3.0",Yes,Type-C,3260
+300,Xiaomi Redmi Note 3,385,Yes,150,76,8.7,164,Dual,LCD,5.5,1080,1920,Android 5.1.1,Qualcomm,Hexa,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,4050
+301,Xiaomi Redmi 3,2310,Yes,139.3,69.6,8.5,144,Dual,LCD,5.0,720,1280,Android 5.1,Qualcomm,Octa,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,4100
+302,Xiaomi Redmi Note Prime,385,Yes,154,78.7,9.4,185,Dual,LCD,5.5,720,1280,Android 4.4.4,Qualcomm,Quad,Adreno,32 GB,"16.0,2.0",Yes,microUSB 2.0,3100
+303,Xiaomi Mi Pad 2,0,No,200.4,132.6,7,322,No,LCD,7.9,1536,2048,Android OS/ Optional Windows 10,Intel,Quad,Intel,No,"16.0,2.0",No,Type-C,6190
+304,Xiaomi Redmi Note 3 (MediaTek),385,Yes,150,76,8.7,164,Dual,LCD,5.5,1080,1920,Android 5.0.2,Mediatek,Octa,PowerVR,No,"16.0,2.0",Yes,microUSB 2.0,4000
+305,Xiaomi Mi 4c,385,Yes,138.1,69.6,7.8,132,Dual,LCD,5.0,1080,1920,Android 5.1.1,Qualcomm,Hexa,Adreno,No,"16.0,2.0",Yes,Type-C,3080
+306,Xiaomi Redmi Note 2,385,Yes,152,76,8.3,160,Dual,LCD,5.5,1080,1920,Android 5.0,Mediatek,Octa,PowerVR,128 GB,"16.0,2.0",Yes,microUSB 2.0,3060
+307,Xiaomi Redmi 2 Pro,385,Yes,134,67,9,133,Dual,LCD,4.7,720,1280,Android 4.4.4,Qualcomm,Quad,Adreno,32 GB,"16.0,2.0",Yes,microUSB 2.0,2200
+308,Xiaomi Redmi 2 Prime,385,Yes,134,67,9,133,Dual,LCD,4.7,720,1280,Android 4.4.4,Qualcomm,Quad,Adreno,32 GB,"16.0,2.0",Yes,microUSB 2.0,2200
+309,Xiaomi Mi 4i,385,Yes,138.1,69.6,7.8,130,Dual,LCD,5.0,1080,1920,Android 5.0.2,Qualcomm,Octa,Adreno,No,"16.0,2.0",Yes,microUSB 2.0,3120
+310,Xiaomi Mi Note Pro,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,161,Dual,LCD,5.7,1440,2560,Android 5.0.1,Qualcomm,Octa,Adreno,No,"64.0,4.0",Yes,microUSB 2.0,3000
+311,Xiaomi Mi Note,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,161,Dual,LCD,5.7,1080,1920,Android 4.4.4,Qualcomm,Quad,Adreno,No,"16.0,3.0",Yes,microUSB 2.0,3000
+312,Xiaomi Redmi 2A,385,Yes,134,67.2,9.4,132,Dual,LCD,4.7,720,1280,Android 5.0,Leadcore,Quad,Mali-T628,32 GB,"8.0,1.0",Yes,microUSB 2.0,2200
+313,Xiaomi Redmi 2,385,Yes,134,67.2,9.4,133,Dual,LCD,4.7,720,1280,Android 4.4.4,Qualcomm,Quad,Adreno,32 GB,"8.0,1.0",Yes,microUSB 2.0,2200
+314,Xiaomi Mi 4 LTE,385,Yes,139.2,68.5,8.9,149,Single,LCD,5.0,1080,1920,Android 4.4.3,Qualcomm,Quad,Adreno,No,"16.0,3.0",Yes,microUSB 2.0,3080
+315,Xiaomi Redmi Note 4G,385,Yes,154,78.7,9.5,185,Single,LCD,5.5,720,1280,Android 4.2,Qualcomm,Quad,Adreno,64 GB,"8.0,2.0",Yes,microUSB 2.0,3100
+316,Xiaomi Mi 4,2310,Yes,139.2,68.5,8.9,149,Single,LCD,5.0,1080,1920,Android 4.4.3,Qualcomm,Quad,Adreno,No,"16.0,2.0",Yes,microUSB 2.0,3080
+317,Asus Zenfone Max Plus (M2) ZB634KL,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,165,Dual,LCD,6.26,1080,2246,Android 8.0,Qualcomm,Octa,Adreno,512 GB,"32.0,3.0",Yes,microUSB 2.0,4000
+318,Asus Zenfone Max Shot ZB634KL,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,165,Dual,LCD,6.26,1080,2246,Android 8.0,Qualcomm,Octa,Adreno,512 GB,"64.0,4.0",Yes,microUSB 2.0,4000
+319,Asus Zenfone Max Pro (M2) ZB631KL,385,Yes,157.9,75.5,8.5,175,Dual,LCD,6.26,1080,2280,Android 8.1,Qualcomm,Octa,Adreno,512 GB,"64.0,4.0",Yes,microUSB 2.0,5000
+320,Asus Zenfone Max (M2) ZB633KL,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,160,Dual,LCD,6.26,720,1520,Android 8.1,Qualcomm,Octa,Adreno,512 GB,"64.0,4.0",Yes,microUSB 2.0,4000
+321,Asus Zenfone Max (M1) ZB556KL,385,Yes,147.3,70.9,8.7,150,Dual,LCD,5.45,720,1440,Android 8,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,4000
+322,Asus ZenFone Lite (L1) ZA551KL,385,Yes,147.3,71.8,8.2,140,Dual,LCD,5.45,720,1440,Android 8.0,Qualcomm,Octa,Adreno,512 GB,"16.0,2.0",Yes,microUSB 2.0,3000
+323,Asus ROG Phone,770,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,200,Dual,AMOLED,6.0,1080,2160,Android 8.1,Qualcomm,Octa,Adreno,No,"128.0,8.0",Yes,Type-C,4000
+324,Asus ZenFone Live (L1) ZA550KL,385,Yes,147.3,71.8,8.2,140,Dual,LCD,5.5,720,1440,Android 8.0,Qualcomm,Quad,Adreno,512 GB,"32.0,2.0",Yes,microUSB 2.0,3000
+325,Asus Zenfone Max Pro (M1) ZB601KL/ZB602K,385,Yes,159,76,8.5,180,Dual,LCD,5.99,1080,2160,Android 8.1,Qualcomm,Octa,Adreno,512 GB,"64.0,4.0",Yes,microUSB 2.0,5000
+326,Asus Zenfone 5z ZS620KL,770,Yes,153,75.7,7.9,155,Dual,LCD,6.2,1080,2246,Android 8.0,Qualcomm,Octa,Adreno,512 GB,"256.0,8.0",Yes,Type-C,3300
+327,Asus Zenfone 5 ZE620KL,385,Yes,153,75.7,7.7,165,Dual,LCD,6.2,1080,2246,Android 8.0,Qualcomm,Octa,Adreno,512 GB,"64.0,4.0",Yes,Type-C,3300
+328,Asus Zenfone 5 Lite ZC600KL,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,168,Dual,LCD,6.0,1080,2160,Android 7.1,Qualcomm,Octa,Adreno,512 GB,"64.0,4.0",Yes,microUSB 2.0,3300
+329,Asus Zenfone Max (M1) ZB555KL,385,Yes,147.3,70.9,8.7,150,Dual,LCD,5.5,720,1440,Android 8,Qualcomm,Quad,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,4000
+330,Asus Zenfone Max Plus (M1) ZB570TL,770,Yes,152.6,73,8.8,160,Dual,LCD,5.7,1080,2160,Android 7,Mediatek,Octa,Mali-T860MP2,256 GB,"64.0,4.0",Yes,microUSB 2.0,4130
+331,Asus Zenfone V V520KL,385,Yes,146.6,72.6,7.6,147.1,Dual,AMOLED,5.2,1080,1920,Android 7,Qualcomm,Quad,Adreno,512 GB,"32.0,4.0",Yes,Type-C,3000
+332,Asus Zenfone 4 Pro ZS551KL,385,Yes,156.9,75.6,7.6,175,Dual,AMOLED,5.5,1080,1920,Android 7.1.1,Qualcomm,Octa,Adreno,512 GB,"64.0,6.0",Yes,Type-C,3600
+333,Asus Zenfone 4 ZE554KL,385,Yes,155.4,75.2,7.7,165,Dual,LCD,5.5,1080,1920,Android 7.1.1,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,Type-C,3300
+334,Asus Zenfone 4 Selfie Lite ZB553KL,385,Yes,155.7,75.9,7.9,144,Dual,LCD,5.5,720,1280,Android 7,Qualcomm,Quad,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,3000
+335,Asus Zenfone 4 Selfie ZB553KL,385,Yes,155.7,75.9,7.9,144,Dual,LCD,5.5,720,1280,Android 7.0,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,3000
+336,Asus Zenfone 4 Selfie Pro ZD552KL,385,Yes,154,74.8,6.9,147,Dual,AMOLED,5.5,1080,1920,Android 7,Qualcomm,Octa,Adreno,256 GB,"64.0,3.0",Yes,microUSB 2.0,3000
+337,Asus Zenfone 4 Selfie ZD553KL,385,Yes,155.7,75.9,7.9,144,Dual,LCD,5.5,720,1280,Android 7.0,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,microUSB 2.0,3000
+338,Asus Zenfone 4 Max ZC520KL,385,Yes,150.5,73.3,8.8,156,Dual,LCD,5.2,720,1280,Android 7,Qualcomm,Quad,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,4100
+339,Asus Zenfone 4 Max Plus ZC554KL,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,181,Dual,LCD,5.5,720,1280,Android 7,Qualcomm,Quad,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,5000
+340,Asus Zenfone 4 Max Pro ZC554KL,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,181,Dual,LCD,5.5,720,1280,Android 7,Qualcomm,Quad,Adreno,256 GB,"32.0,2.0",Yes,microUSB 2.0,5000
+341,Asus Zenfone 4 Max ZC554KL,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,181,Dual,LCD,5.5,720,1280,Android 7,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,5000
+342,Asus Zenpad Z8s ZT582KL,385,Yes,204,133.9,6.9,306,Single,LCD,7.9,1536,2048,Android 7.0,Qualcomm,Octa,Adreno,256 GB,"16.0,3.0",Yes,Type-C,4680
+343,Asus Zenpad 3s 8.0 Z582KL,385,Yes,6.9,6.9,6.9,-,Single,LCD,7.9,1536,2048,Android 7.1,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,Type-C,4680
+344,Asus Zenfone Go ZB552KL,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,168,Dual,LCD,5.5,720,1280,Android 6,Qualcomm,Quad,Adreno,128 GB,"16.0,2.0",Yes,microUSB 2.0,3000
+345,Asus Zenfone Live ZB501KL,385,Yes,141.2,71.7,8,120,Dual,LCD,5.0,720,1280,Android 6.0,Qualcomm,Quad,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,2650
+346,Asus Zenfone 3s Max ZC521TL,385,Yes,8.9,8.9,8.9,175,Dual,LCD,5.2,720,1280,Android 7,Mediatek,Octa,Mali-T860MP2,256 GB,"32.0,3.0",Yes,microUSB 2.0,5000
+347,Asus Zenpad 3S 10 Z500KL,385,Yes,242.3,164.2,6.8,490,Dual,LCD,9.7,1536,2048,Android 6.0,Qualcomm,Hexa,Adreno,256 GB,"32.0,4.0",Yes,Type-C,7800
+348,Asus Zenfone AR ZS571KL,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,170,Dual,AMOLED,5.7,1440,2560,Android 7,Qualcomm,Quad,Adreno,512 GB,"64.0,6.0",Yes,Type-C,3300
+349,Asus Zenfone 3 Zoom ZE553KL,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,170,Dual,AMOLED,5.5,1080,1920,Android 6.1,Qualcomm,Octa,Adreno,256 GB,"32.0,4.0",Yes,Type-C,5000
+350,Asus Zenfone Go ZB690KG,35,Yes,188,101.4,8.9,270,Dual,LCD,6.9,600,1024,Android 5.1,-,Quad,-,256 GB,"8.0,1.0",Yes,microUSB 2.0,3480
+351,Asus Zenpad 3 8.0 Z581KL,385,Yes,205.4,136.4,7.6,320,Single,LCD,7.9,1536,2048,Android 6.0,Qualcomm,Hexa,Adreno,256 GB,"32.0,4.0",Yes,Type-C,4680
+352,Asus Zenfone Go ZB500KL,385,Yes,143.7,70.9,11.3,150,Dual,LCD,5.0,720,1280,Android 6.0,Qualcomm,Quad,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,2600
+353,Asus Zenfone 3 Max ZC553KL,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,175,Dual,LCD,5.5,1080,1920,Android 6.0.1,Qualcomm,Octa,Adreno,256 GB,"32.0,2.0",Yes,microUSB 2.0,4100
+354,Asus Zenfone 3 Deluxe 5.5 ZS550KL,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,151,Dual,LCD,5.5,1080,1920,Android 6.1,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,Type-C,3000
+355,Asus Zenpad Z10 ZT500KL,11,No,242.3,166.1,7.1,490,Single,LCD,9.7,1536,2048,Android 6.0,Qualcomm,Hexa,Adreno,256 GB,"32.0,3.0",Yes,Type-C,7800
+356,Asus Zenwatch 3 WI503Q,0,No,45,45,10.8,48,No,AMOLED,1.39,400,400,Android Wear OS 2.1,Qualcomm,Quad,Adreno,No,"4.0,0.5",No,No,341
+357,Asus Zenpad 3S 10 Z500M,0,No,240.5,163.7,7.2,430,No,LCD,9.7,1536,2048,Android 6.0,Mediatek,Hexa,PowerVR,256 GB,"32.0,4.0",Yes,Type-C,5900
+358,Asus Zenfone 3 Max ZC520TL,385,Yes,149.5,73.7,8.6,148,Dual,LCD,5.2,720,1280,Android 6.0.1,Mediatek,Quad,Mali-T720MP2,32 GB,"32.0,3.0",Yes,microUSB 2.0,4130
+359,Asus Zenfone 3 Laser ZC551KL,385,Yes,149,76,7.9,150,Dual,LCD,5.5,1080,1920,Android 6.1,Qualcomm,Octa,Adreno,128 GB,"16.0,2.0",Yes,microUSB 2.0,3000
+360,Asus Zenfone 3 ZE520KL,385,Yes,146.9,74,7.7,144,Dual,"Super IPS+ capacitive touchscreen, 16M colors",5.2,1080,1920,Android 6.1,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,Type-C,2600
+361,Asus Zenfone Pegasus 3,385,Yes,149.5,73.7,8.6,158.4,Dual,LCD,5.2,720,1280,Android 6.0.1,Mediatek,Quad,Mali-T720MP2,256 GB,"32.0,3.0",Yes,microUSB 2.0,4100
+362,Asus Zenpad Z8,11,Yes,205.2,205.2,205.2,320.1,Single,LCD,7.9,1536,2048,Android 6.0,Qualcomm,Hexa,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,4680
+363,Asus Zenfone 3 Ultra ZU680KL,385,Yes,186.4,93.9,6.8,233,Dual,LCD,6.8,1080,1920,Android 6.1,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,Type-C,4600
+364,Asus Zenfone 3 Deluxe ZS570KL,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,170,Dual,AMOLED,5.7,1080,1920,Android 6.1,Qualcomm,Quad,Adreno,512 GB,"64.0,4.0",Yes,Type-C,3000
+365,Asus Zenfone 3 ZE552KL,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,155,Dual,"Super IPS+ capacitive touchscreen, 16M colors",5.5,1080,1920,Android 6.0.1,Qualcomm,Octa,Adreno,256 GB,"64.0,4.0",Yes,Type-C,3000
+366,Asus Zenfone Max ZC550KL (2016),385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,202,Dual,LCD,5.5,720,1280,Android 6.0.1,Qualcomm,Octa,Adreno,64 GB,"32.0,2.0",Yes,microUSB 2.0,5000
+367,Asus Zenfone Go ZB450KL,385,Yes,136.5,66.7,11.2,135,Dual,LCD,4.5,480,854,Android 6,Qualcomm,Quad,Adreno,256 GB,"8.0,1.0",Yes,microUSB 2.0,2070
+368,Asus Zenfone Go ZB452KG,35,Yes,136.5,66.7,11.2,125,Dual,LCD,4.5,480,854,Android 5.1,Qualcomm,Quad,Adreno,64 GB,"8.0,1.0",Yes,microUSB 2.0,2070
+369,Asus Zenfone Go ZB551KL,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,160,Dual,LCD,5.5,720,1280,Android 5.1,Qualcomm,Quad,Adreno,64 GB,"16.0,2.0",Yes,microUSB 2.0,3010
+370,Asus Zenfone Go T500,385,Yes,146,73,9.9,153,Dual,LCD,5.0,720,1280,Android 4.4,Qualcomm,Quad,Adreno,32 GB,"16.0,2.0",Yes,microUSB 2.0,2500
+371,Asus Zenfone Go ZC451TG,35,Yes,135,67,10.1,133.5,Dual,LCD,4.5,480,854,Android 5.1,Mediatek,Quad,Mali-400MP2,64 GB,"8.0,1.0",Yes,microUSB 2.0,1600
+372,Asus Live G500TG,35,Yes,144.5,71,10,140,Dual,LCD,5.0,720,1280,Android 5.1,Mediatek,Quad,Mali-400MP2,64 GB,"16.0,2.0",Yes,microUSB 2.0,2070
+373,Asus Zenwatch 2 WI501Q,0,No,49.6,40.7,10.9,-,No,AMOLED,1.63,320,320,Android Wear OS 2.1,Qualcomm,Quad,Adreno,No,"4.0,0.5",No,No,400
+374,Asus Zenwatch 2 WI502Q,0,No,45.2,37.2,11.8,-,No,AMOLED,1.45,280,280,Android Wear OS 2.1,Qualcomm,Quad,Adreno,No,"4.0,0.5",No,No,300
+375,Asus Zenwatch WI500Q,0,No,microUSB 2.0,microUSB 2.0,microUSB 2.0,75,No,AMOLED,1.63,320,320,Android Wear OS 2.1,Qualcomm,Quad,Adreno,No,"4.0,0.5",No,No,370
+376,Asus Zenfone 2 Laser ZE551KL,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,170.1,Dual,LCD,5.5,1080,1920,Android 5,Qualcomm,Octa,Adreno,256 GB,"16.0,3.0",Yes,microUSB 2.0,3000
+377,Asus Zenfone Zoom ZX551ML,385,Yes,158.9,78.8,12,185,Single,LCD,5.5,1080,1920,Android 5.0,Intel,Quad,PowerVR,256 GB,"32.0,4.0",Yes,microUSB 2.0,3000
+378,Asus Zenpad 8.0 Z380M,0,No,209,123,8.5,350,No,LCD,8.0,800,1280,Android 6.0,Mediatek,-,Mali-T720MP2,256 GB,"8.0,1.0",Yes,microUSB 2.0,4000
+379,Asus Zenpad 10 Z300M,0,No,251.6,172,7.9,490,No,LCD,10.1,800,1280,Android 6.0,Mediatek,Quad,Mali-T720MP2,256 GB,"16.0,2.0",Yes,microUSB 2.0,4890
+380,Asus Zenpad 10 Z300C,0,No,251.6,172,7.9,510,No,LCD,10.1,800,1280,Android 5.0,Intel,Quad,Mali-450MP4,64 GB,"8.0,2.0",Yes,microUSB 2.0,4890
+381,Asus Zenfone Go ZC500TG,35,Yes,144.5,71,10,135,Dual,LCD,5.0,720,1280,Android 5.1,Mediatek,Quad,Mali-400MP2,64 GB,"8.0,2.0",Yes,microUSB 2.0,2070
+382,Asus Zenfone Max ZC550KL,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,202,Dual,LCD,5.5,720,1280,Android 5.0.1,Qualcomm,Quad,Adreno,64 GB,"8.0,2.0",Yes,microUSB 2.0,5000
+383,Asus Zenfone 2 Deluxe ZE551ML,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,170,Dual,LCD,5.5,1080,1920,Android 5.0,Intel,Quad,PowerVR,256 GB,"64.0,4.0",Yes,microUSB 2.0,3000
+384,Asus Zenfone 2 Laser ZE601KL,385,Yes,164.6,84,10.6,190,Dual,LCD,6.0,1080,1920,Android 5.0,Qualcomm,Octa,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,3000
+385,Asus Zenfone 2 Laser ZE600KL,385,Yes,164.6,84,10.6,190,Dual,LCD,6.0,720,1280,Android 5.0,Qualcomm,Octa,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,3000
+386,Asus Zenfone 2 Laser ZE550KL,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,170,Dual,LCD,5.5,720,1280,Android 5.0,Qualcomm,Quad,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,3000
+387,Asus Zenfone 2 Laser ZE500KG,35,Yes,143.7,71.5,10.5,140,Dual,TFT,5.0,720,1280,Android 5.0,Qualcomm,Quad,Adreno,256 GB,"8.0,2.0",Yes,microUSB 2.0,2040
+388,Asus Zenfone 2 Laser ZE500KL,385,Yes,143.7,71.5,10.5,140,Dual,"Capacitive touchscreen, 16M colors",5.0,720,1280,Android 5.0,Qualcomm,Quad,Adreno,256 GB,"8.0,2.0",Yes,microUSB 2.0,2400
+389,Asus Zenpad 7.0 Z370CG,35,Yes,189,110.9,8.7,272,Single,LCD,7.0,800,1280,Android 5.0,Intel,Quad,Mali-450MP4,256 GB,"16.0,2.0",Yes,microUSB 2.0,3500
+390,Asus Zenfone 2E,385,Yes,148.1,71.4,10.9,155.1,Single,LCD,5.0,720,1280,Android 5.0,Intel,Dual,PowerVR,64 GB,"8.0,1.0",Yes,microUSB 2.0,2500
+391,Asus Pegasus 2 Plus,385,Yes,151.8,75.5,8.1,156,Dual,LCD,5.5,1080,1920,Android 5.1.1,Qualcomm,Octa,Adreno,32 GB,"32.0,3.0",Yes,microUSB 2.0,3030
+392,Asus Zenpad S 8.0 Z580CA,0,No,203.2,134.5,6.6,298,No,LCD,8.0,1536,2048,Android 5.0,Intel,Quad,PowerVR,256 GB,"16.0,2.0",Yes,Type-C,3950
+393,Asus Zenpad S 8.0 Z580C,0,No,203.2,134.5,6.9,317,No,LCD,8.0,1536,2048,Android 5.0,Intel,Quad,PowerVR,256 GB,"16.0,2.0",Yes,microUSB 2.0,4000
+394,Asus Zenpad 8.0 Z380KL,385,Yes,209,123,8.5,350,Single,LCD,8.0,800,1280,Android 5.0,Qualcomm,Octa,Adreno,64 GB,"8.0,1.0",Yes,microUSB 2.0,4000
+395,Asus Zenpad 8.0 Z380C,0,No,209,123,8.5,350,No,LCD,8.0,800,1280,Android 5.0,Intel,Quad,Mali-450MP4,64 GB,"8.0,1.0",Yes,microUSB 2.0,4000
+396,Asus Zenpad C 7.0 Z170MG,35,Yes,189,108,9.5,275,Single,LCD,7.0,600,1024,Android 5.0,Mediatek,Quad,Mali-400MP2,64 GB,"8.0,1.0",Yes,microUSB 2.0,3500
+397,Sony Xperia 1,385,Yes,167,72,8.2,180,Single,"OLED capacitive touchscreen, 16M colors",6.5,1644,3840,Android 9.0,Qualcomm,Octa,Adreno,512 GB,"64.0,6.0",Yes,Type-C,3330
+398,Sony Xperia 10 Plus,385,Yes,167,73,8.3,180,Single,LCD,6.5,1080,2520,Android 9.0,Qualcomm,Octa,Adreno,512 GB,"64.0,4.0",Yes,Type-C,3000
+399,Sony Xperia 10,385,Yes,155.7,68,8.4,162,Single,LCD,6.0,1080,2520,Android 9.0,Qualcomm,Octa,Adreno,512 GB,"64.0,3.0",Yes,Type-C,2870
+400,Sony Xperia L3,385,Yes,154,72,8.9,156,Single,LCD,5.7,720,1440,Android 8.0,Mediatek,Octa,PowerVR,512 GB,"32.0,3.0",Yes,Type-C,3300
+401,Sony Xperia XZ3,385,Yes,158,73,9.9,193,Single,"P-OLED capacitive touchscreen, 16M colors",6.0,1440,2880,Android 9.0,Qualcomm,Octa,Adreno,512 GB,"64.0,4.0",Yes,Type-C,3300
+402,Sony Xperia XA2 Plus,385,Yes,157,75,9.6,205,Single,LCD,6.0,1080,2160,Android 8.0,Qualcomm,Octa,Adreno,400 GB,"64.0,6.0",Yes,Type-C,3580
+403,Sony Xperia XZ2 Premium,385,Yes,158,80,11.9,236,Single,LCD,5.8,3840,2160,Android 8.0,Qualcomm,Octa,Adreno,512 GB,"64.0,6.0",Yes,Type-C,3540
+404,Sony Xperia XZ2,385,Yes,153,72,11.1,198,Single,LCD,5.7,1080,2160,Android 8.0,Qualcomm,Octa,Adreno,512 GB,"64.0,4.0",Yes,Type-C,3180
+405,Sony Xperia XZ2 Compact,385,Yes,135,65,12.1,168,Single,LCD,5.0,1080,2160,Android 8.0,Qualcomm,Octa,Adreno,512 GB,"64.0,4.0",Yes,Type-C,2870
+406,Sony Xperia XA2 Ultra,385,Yes,163,80,9.5,221,Single,LCD,6.0,1080,1920,Android 8.0,Qualcomm,Octa,Adreno,256 GB,"32.0,4.0",Yes,Type-C,3580
+407,Sony Xperia XA2,385,Yes,142,70,9.7,171,Single,LCD,5.2,1080,1920,Android 8.0,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,Type-C,3300
+408,Sony Xperia L2,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,178,Single,LCD,5.5,720,1280,Android 7.1.1,Mediatek,Quad,Mali-T720MP2,256 GB,"32.0,3.0",Yes,Type-C,3300
+409,Sony Xperia R1 (Plus),385,Yes,146,73.2,8.9,154,Dual,LCD,5.2,720,1280,Android 7.1,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,Type-C,2620
+410,Sony Xperia XZ1,385,Yes,148,73.4,7.4,155,Single,LCD,5.2,1080,1920,Android 8.0,Qualcomm,Octa,Adreno,512 GB,"64.0,4.0",Yes,Type-C,2700
+411,Sony Xperia XA1 Plus,385,Yes,155,75,8.7,189,Single,LCD,5.5,1080,1920,Android 7.0,Mediatek,Octa,Mali-T880MP2,256 GB,"32.0,3.0",Yes,Type-C,3430
+412,Sony Xperia XZ1 Compact,385,Yes,129,64,9.3,140,Single,LCD,4.6,720,1280,Android 8.0,Qualcomm,Octa,Adreno,512 GB,"32.0,4.0",Yes,Type-C,2700
+413,Sony Xperia L1,385,Yes,151,74,8.7,180,Single,LCD,5.5,720,1280,Android 7.0,Mediatek,Quad,Mali-T720MP2,256 GB,"16.0,2.0",Yes,Type-C,2620
+414,Sony Xperia XZs,385,Yes,146,72,8.1,161,Single,LCD,5.2,1080,1920,Android 7.1,Qualcomm,Quad,Adreno,512 GB,"32.0,4.0",Yes,Type-C,2900
+415,Sony Xperia XZ Premium,385,Yes,microUSB 3.0,microUSB 3.0,microUSB 3.0,195,Single,LCD,5.46,3840,2160,Android 7.1,Qualcomm,Octa,Adreno,512 GB,"64.0,4.0",Yes,Type-C,3230
+416,Sony Xperia XA1 Ultra,385,Yes,165,79,8.1,188,Single,LCD,6.0,1080,1920,Android 7.0,Mediatek,Octa,Mali-T880MP2,256 GB,"32.0,4.0",Yes,Type-C,2700
+417,Sony Xperia XA1,385,Yes,145,67,8,143,Single,LCD,5.0,720,1280,Android 7.0,Mediatek,Octa,Mali-T880MP2,256 GB,"32.0,3.0",Yes,Type-C,2300
+418,Sony Xperia X Compact,385,Yes,129,65,9.5,135,Single,LCD,4.6,720,1280,Android 6.0.1,Qualcomm,Hexa,Adreno,256 GB,"32.0,3.0",Yes,Type-C,2700
+419,Sony Xperia XZ,385,Yes,146,72,8.1,161,Single,LCD,5.2,1080,1920,Android 6.0.1,Qualcomm,Quad,Adreno,512 GB,"32.0,3.0",Yes,Type-C,2900
+420,Sony Xperia E5,385,Up to 85.6 kbps,144,69,8.2,147,Single,LCD,5.0,720,1280,Android 6.0,Mediatek,Quad,Mali-T720MP2,256 GB,"16.0,1.5",Yes,microUSB 2.0,2300
+421,Sony Xperia XA Ultra,385,Up to 85.6 kbps,164,79,8.4,202,Single,LCD,6.0,1080,1920,Android 6.0.1,Mediatek,Octa,Mali-T860MP2,256 GB,"16.0,3.0",Yes,microUSB 2.0,2700
+422,Sony Xperia X Performance,385,Up to 107 kbps,143.7,70.4,8.7,164.4,Single,LCD,5.0,1080,1920,Android 6.0.1,Qualcomm,Quad,Adreno,512 GB,"32.0,3.0",Yes,microUSB 2.0,2700
+423,Sony Xperia X,385,Up to 107 kbps,143,69,7.7,153,Single,LCD,5.0,1080,1920,Android 6.0.1,Qualcomm,Hexa,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,2620
+424,Dual,385,Up to 85.6 kbps,143.6,66.8,7.9,137.4,Dual,LCD,5.0,720,1280,Android 6.0.1,Mediatek,Octa,Mali-T860MP2,256 GB,"16.0,2.0",Yes,microUSB 2.0,2300
+425,Sony Xperia XA,385,Up to 85.6 kbps,143.6,66.8,7.9,137.4,Single,LCD,5.0,720,1280,Android 6.0.1,Mediatek,Octa,Mali-T860MP2,256 GB,"16.0,2.0",Yes,microUSB 2.0,2300
+426,Dual,385,Up to 107 kbps,154.4,75.8,7.8,180,Dual,LCD,5.5,2160,3840,Android 5.1.1,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,3430
+427,Sony Xperia Z5 Premium,385,Up to 107 kbps,154.4,75.8,7.8,180,Single,LCD,5.5,2160,3840,Android 5.1.1,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,3430
+428,Dual,385,Up to 107 kbps,146,72,7.3,154,Dual,LCD,5.2,1080,1920,Android 5.1.1,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,2900
+429,Sony Xperia Z5,385,Up to 107 kbps,146,72,7.3,154,Single,LCD,5.2,1080,1920,Android 5.1.1,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,2900
+430,Sony Xperia Z5 Compact,385,Up to 107 kbps,127,65,8.9,138,Single,LCD,4.6,720,1280,Android 5.1.1,Qualcomm,Octa,Adreno,256 GB,"32.0,2.0",Yes,microUSB 2.0,2700
+431,Dual,385,Up to 85.6 kbps,145,72,7.6,142.6,Dual,LCD,5.0,1080,1920,Android 5.0,Mediatek,Octa,PowerVR,256 GB,"16.0,3.0",Yes,microUSB 2.0,2600
+432,Sony Xperia M5,385,Up to 85.6 kbps,145,72,7.6,142.5,Single,LCD,5.0,1080,1920,Android 5.0.1,Mediatek,Octa,PowerVR,256 GB,"16.0,3.0",Yes,microUSB 2.0,2600
+433,Dual,385,Up to 85.6 kbps,164.2,79.6,8.2,187,Dual,LCD,6.0,1080,1920,Android 5.0,Mediatek,Octa,Mali-T760MP2,256 GB,"16.0,2.0",Yes,microUSB 2.0,2930
+434,Sony Xperia C5 Ultra,385,Up to 85.6 kbps,164.2,79.6,8.2,187,Single,LCD,6.0,1080,1920,Android 5.0,Mediatek,Octa,Mali-T760MP2,256 GB,"16.0,2.0",Yes,microUSB 2.0,2930
+435,Sony Xperia Z4v,1155,Up to 107 kbps,144.4,72.3,8.7,162,Single,LCD,5.2,1440,2560,Android 5.0,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,3000
+436,Sony Xperia Z3+ dual,385,Up to 107 kbps,146,72,6.9,144,Dual,LCD,5.2,1080,1920,Android 5.0,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,2930
+437,Sony Xperia Z3+,385,Up to 107 kbps,146,72,6.9,144,Single,LCD,5.2,1080,1920,Android 5.0.1,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,2930
+438,Dual,385,Up to 85.6 kbps,microUSB 3.0,microUSB 3.0,microUSB 3.0,147,Dual,LCD,5.5,1080,1920,Android 5.0,Mediatek,Octa,Mali-T760MP2,256 GB,"16.0,2.0",Yes,microUSB 2.0,2600
+439,Sony Xperia C4,385,Up to 85.6 kbps,microUSB 3.0,microUSB 3.0,microUSB 3.0,147,Single,LCD,5.5,1080,1920,Android 5.0,Mediatek,Octa,Mali-T760MP2,256 GB,"16.0,2.0",Yes,microUSB 2.0,2600
+440,Dual,385,Up to 107 kbps,145.5,72.6,7.3,135,Dual,LCD,5.0,720,1280,Android 5.0,Qualcomm,Octa,Adreno,256 GB,"8.0,2.0",Yes,microUSB 2.0,2400
+441,Sony Xperia M4 Aqua,385,Up to 107 kbps,145.5,72.6,7.3,136,Single,LCD,5.0,720,1280,Android 5.0.1,Qualcomm,Octa,Adreno,256 GB,"8.0,2.0",Yes,microUSB 2.0,2400
+442,Sony Xperia Z4 Tablet WiFi,0,No,254,167,6.1,389,No,LCD,10.1,2560,1600,Android 5.0,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,6000
+443,Sony Xperia Z4 Tablet LTE,385,Up to 107 kbps,254,167,6.1,393,Single,LCD,10.1,2560,1600,Android 5.0,Qualcomm,Octa,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,6000
+444,Sony Xperia E4g,385,Up to 85.6 kbps,133,71,10.8,135,Single,LCD,4.7,540,960,Android 4.4.4,MediaTek,Quad,Mali-T760MP2,32 GB,"8.0,1.0",Yes,microUSB 2.0,2300
+445,Dual,385,Up to 85.6 kbps,133,71,10.8,135,Dual,LCD,4.7,540,960,Android 4.4.4,MediaTek,Quad,Mali-T760MP2,32 GB,"8.0,1.0",Yes,microUSB 2.0,2300
+446,Dual,35,Up to 107 kbps,137,74.6,10.5,144,Dual,LCD,5.0,540,960,Android 4.4.4,Mediatek,Quad,Mali-400MP2,32 GB,"8.0,1.0",Yes,microUSB 2.0,2300
+447,Sony Xperia E4,35,Up to 107 kbps,137,74.6,10.5,144,Single,LCD,5.0,540,960,Android 4.4.4,Mediatek,Quad,Mali-400MP2,32 GB,"8.0,1.0",Yes,microUSB 2.0,2300
+448,Dual,35,Up to 85.6 kbps,137.1,69.4,8.5,143.8,Dual,LCD,4.5,480,854,Android 4.4.2,Qualcomm,Quad,Adreno,32 GB,"4.0,1.0",Yes,microUSB 2.0,2330
+449,Sony Xperia E3,385,Up to 85.6 kbps,137.1,69.4,8.5,143.8,Single,LCD,4.5,480,854,Android 4.4.2,Qualcomm,Quad,Adreno,32 GB,"4.0,1.0",Yes,microUSB 2.0,2330
+450,Sony Xperia Z3 Tablet Compact,385,Up to 107 kbps,213.4,123.6,6.4,270,Single,TFT,8.0,1200,1920,Android 4.4.2,Qualcomm,Quad,Adreno,256 GB,"16.0,3.0",Yes,microUSB 2.0,4500
+451,Dual,385,Up to 107 kbps,146,72,7.3,152,Dual,LCD,5.2,1080,1920,Android 4.4.4,Qualcomm,Quad,Adreno,256 GB,"16.0,3.0",Yes,microUSB 2.0,3100
+452,Sony Xperia Z3v,770,Up to 107 kbps,148.5,73.4,8.9,170.6,Single,LCD,5.2,1080,1920,Android 4.4.4,Qualcomm,Quad,Adreno,256 GB,"32.0,3.0",Yes,microUSB 2.0,3200
+453,Sony Xperia Z3,385,Up to 107 kbps,146,72,7.3,152,Single,LCD,5.2,1080,1920,Android 4.4.4,Qualcomm,Quad,Adreno,256 GB,"16.0,3.0",Yes,microUSB 2.0,3100
+454,Sony Xperia Z3 Compact,385,Up to 107 kbps,127.3,64.9,8.6,129,Single,LCD,4.6,720,1280,Android 4.4.4,Qualcomm,Quad,Adreno,256 GB,"16.0,2.0",Yes,microUSB 2.0,2600
+455,Sony Xperia M2 Aqua,385,Up to 107 kbps,140,72,8.6,149,Single,LCD,4.8,540,960,Android 4.4.2,Qualcomm,Quad,Adreno,32 GB,"8.0,1.0",Yes,microUSB 2.0,2300
+456,Dual,35,Up to 107 kbps,156.2,78.7,7.6,149.7,Dual,LCD,5.5,720,1280,Android 4.4.2,Qualcomm,Quad,Adreno,32 GB,"8.0,1.0",Yes,microUSB 2.0,2500
